@@ -1,0 +1,50 @@
+<html>
+  <head>
+     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+     <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+     <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+     <style>
+       body {
+        height: 100%;
+        width: 100%;
+       }
+       #mapid {
+        height: 600px;
+        width: 100%;
+       }
+      </style>
+  </head>
+  <body>
+     <div id="mapid"></div>
+   </body>
+  <script>
+    var mymap = L.map('mapid').setView([23, 120.2], 13);
+
+    var googleStreet =  new L.tileLayer('http://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}',{
+      maxZoom: 20,
+      subdomains:['mt0','mt1','mt2','mt3']
+    });
+    var googleHybrid = new L.tileLayer('http://{s}.google.com/vt/lyrs=s,h&x={x}&y={y}&z={z}',{
+          maxZoom: 20,
+          subdomains:['mt0','mt1','mt2','mt3']
+    });
+
+    googleHybrid.addTo(mymap);
+    googleStreet.addTo(mymap);
+    L.control.layers({
+      "地球": googleHybrid,
+      "地圖": googleStreet
+    }).addTo(mymap);
+    
+    d3.json('fb_place.json', function(data) {
+        data.forEach(function(d) {
+          var circle = L.circle([d.location.latitude, d.location.longitude], 10, {
+              color: 'red',
+              fillColor: '#f03',
+              fillOpacity: 0.5
+          }).addTo(mymap);
+        });
+    });
+
+  </script>
+</html>
