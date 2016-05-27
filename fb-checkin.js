@@ -7,8 +7,11 @@ var data = require('./fb_checkin.json');
 var lookup = require('./checkin_lookup.json');
 var places = require('./fb_place.json');
 var count = 0;
-var NUMVER_TO_WRITE = 10;
+var NUMVER_TO_WRITE = 5;
 var MAX_NUMBER = 500;
+
+//places = places.reverse();
+//places = places.slice(3280);
 
 var q = async.queue(function (p, done) {
 

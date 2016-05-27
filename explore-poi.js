@@ -1,7 +1,7 @@
 var request = require('request');
 var fs = require('fs');
 
-var API = 'https://api.foursquare.com/v2/venues/search?oauth_token=EACTJOEC3DFI4G4FHBQILJ1WVA1ZASBOIE4E5SKCO04ACVBC&v=20160526&limit=50&ll=22.9909098,120.2037316&radius=10000';
+var API = 'https://api.foursquare.com/v2/venues/search?oauth_token=EACTJOEC3DFI4G4FHBQILJ1WVA1ZASBOIE4E5SKCO04ACVBC&v=20160526&limit=50&radius=10000&ll=23.0001878,120.1910196';
 
 var outputFilename = 'poi.json';
 
@@ -12,7 +12,7 @@ request(API, function (error, response, body) {
   var venues = JSON.parse(body).response.venues;
   venues.forEach(function(v) {
     if(!ids.hasOwnProperty(v.id)) {
-      console.log(v.name, v);
+      //console.log(v.name, v);
       ids[v.id] = true;
       data.push(v);
     }
