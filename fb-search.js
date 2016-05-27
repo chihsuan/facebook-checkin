@@ -9,7 +9,7 @@ var outputFilename = 'fb_place.json';
 var count = 0;
 
 var places = require('./tainanPOI.json');
-places = require('./poi.json');
+//places = require('./poi.json');
 
 var data = require('./fb_place.json');
 var lookup = require('./fb_lookup.json');
@@ -19,7 +19,7 @@ places = places.reverse();
 var q = async.queue(function (p, done) {
   lookup[p.name] = true;
   //console.log(API+'&center='+p.lat+','+p.lng+'&distance=1000&q='+p.name)
-  request(API+'&center='+p.location.lat+','+p.location.lng+'&distance=1000&q='+p.name, function (error, response, body) {
+  request(API+'&center='+p.lat+','+p.lng+'&distance=1000&q='+p.name, function (error, response, body) {
     if (error) {
       console.log(error);
     }
@@ -57,7 +57,7 @@ var q = async.queue(function (p, done) {
 });
 
 places.forEach(function(p) {
-  if (lookup.hasOwnProperty(p.name) || p.location.lat > 23.28 || p.location.lat < 22.822) {
+  if (lookup.hasOwnProperty(p.name) || p.lat > 23.28 || p.lat < 22.922) {
     return;
   }
   q.push(p);

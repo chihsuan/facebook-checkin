@@ -39,15 +39,18 @@
     }).addTo(mymap);
     
     d3.json('../fb_place.json', function(data) {
+      var count = 0;
       data.forEach(function(d) {
         if (d.location.latitude > 23.28 || d.location.latitude < 22.922)
           return;
+        count += 1;
           var circle = L.circle([d.location.latitude, d.location.longitude], 10, {
               color: 'red',
               fillColor: '#f03',
               fillOpacity: 0.5
           }).addTo(mymap);
         });
+      console.log(count);
     });
 
   </script>
