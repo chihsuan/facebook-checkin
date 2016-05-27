@@ -27,17 +27,18 @@ var q = async.queue(function (p, done) {
   var page = require('webpage').create();
   pageUrl = encodeURI(pageUrl);
   console.log(p.name, pageUrl);
-
   page.open(pageUrl, function(status) {
+    console.log(status);
     if(status === "success") {
       if (page.content.indexOf('讚') < 0 && page.content.indexOf('訪') < 0) {
         lookup[p.name] = false;
+        page.close();
         done();
         return;
       }
-      console.log(page.content.indexOf('讚'));
+      console.log(page.content.indexOf('讚'), count);
 
-          count += 1;
+      count += 1;
       page.includeJs("http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js", function() {
         var d = page.evaluate(function() {
 
@@ -78,6 +79,7 @@ var q = async.queue(function (p, done) {
         if (!d || (!d.like && !d.visit)) {
           console.log('--->'+ d);
           lookup[p.name] = false;
+          page.close();
           done();
           return;
         }
@@ -103,11 +105,13 @@ var q = async.queue(function (p, done) {
         if (count > MAX_NUMBER) {
           phantom.exit();
         }
+        page.close();
         done();
       });
     }
     else {
       lookup[p.name] = false;
+      page.close();
       done();
     }
   });
