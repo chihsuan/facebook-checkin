@@ -27,15 +27,17 @@ var q = async.queue(function (p, done) {
 
   page.open(pageUrl, function(status) {
     if(status === "success") {
-      if (page.content.indexOf('讚') < 0) {
+      if (page.content.indexOf('讚') < 0 && page.content.indexOf('訪') < 0) {
         lookup[p.name] = false;
         done();
         return;
       }
       console.log(page.content.indexOf('讚'));
 
+          count += 1;
       page.includeJs("http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js", function() {
         var d = page.evaluate(function() {
+
           var tr = $('._1zuq').text();
           var arr = tr.split('讚');
 
@@ -43,9 +45,15 @@ var q = async.queue(function (p, done) {
             like,
             visit;
 
-          if (arr && arr.length > 1) {
-            like = arr[0].replace('個', '').replace(/[, ]/g, '');
-            visit = arr[1].replace('人次造訪', '').replace(/[, ]/g, '');
+          if (arr && arr.length > 0) {
+            if (tr.indexOf('讚') >= 0) {
+              like = arr[0].replace('個', '').replace(/[, ]/g, '');
+              visit = arr[1].replace('人次造訪', '').replace(/[, ]/g, '');
+            }
+            else if (tr.indexOf('人次') >= 0) {
+              like = 0;
+              visit = arr[0].replace('人次造訪', '').replace(/[, ]/g, '');
+            }
           }
           else {
             arr = $('._50f5').text().split('讚');
@@ -65,9 +73,10 @@ var q = async.queue(function (p, done) {
         });
 
         if (!d || (!d.like && !d.visit)) {
-          console.log(d);
+          console.log('--->'+ d);
           lookup[p.name] = false;
           done();
+          return;
         }
 
         if (!d.like)
@@ -83,7 +92,7 @@ var q = async.queue(function (p, done) {
         data.push(p);
         lookup[p.name] = true;
 
-        if (++count % NUMVER_TO_WRITE === 0) {
+        if (count % NUMVER_TO_WRITE === 0) {
           fs.write('./fb_checkin.json', JSON.stringify(data, null, 2), 'w');
           fs.write('./checkin_lookup.json', JSON.stringify(lookup, null, 2), 'w');
         }
@@ -95,16 +104,15 @@ var q = async.queue(function (p, done) {
       });
     }
     else {
-      console.log('fail to load page：', p.name);
       lookup[p.name] = false;
       done();
     }
   });
 });
 
-
+var g = false;
 places.forEach(function(p) {
-  if ((lookup.hasOwnProperty(p.name) && lookup[p.name] !== false) ||
+  if ((lookup.hasOwnProperty(p.name)) ||
     p.location.latitude > 23.28 || p.location.latitude < 22.822) {
     return;
   }

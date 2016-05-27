@@ -8,9 +8,11 @@
        body {
         height: 100%;
         width: 100%;
+        margin: 0;
+        padding: 0;
        }
        #mapid {
-        height: 600px;
+        height: 100%;
         width: 100%;
        }
       </style>
@@ -37,21 +39,23 @@
       "地圖": googleStreet
     }).addTo(mymap);
 
-    d3.json('fb_checkin.json', function(data) {
+    d3.json('/fb_checkin.json', function(data) {
       var latlng = [];
       data.forEach(function(d) {
         if (!d.visit)
           return;
 
-        d.visit = d.visit/500;
+        var visit = Math.log(d.visit/1000)*10;
+        //visit = d.visit/500;
 
-        for (var i=0; i < d.visit; ++i) {
+        for (var i=0; i < visit; ++i) {
           latlng.push([d.location.latitude, d.location.longitude]);
         }
       });
 
       var heat = L.heatLayer(latlng, {
-        radius: 20
+        radius: 25,
+        max: 2
       }).addTo(mymap);
     });
 

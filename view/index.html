@@ -7,9 +7,11 @@
        body {
         height: 100%;
         width: 100%;
+        margin: 0;
+        padding: 0;
        }
        #mapid {
-        height: 600px;
+        height: 100%;
         width: 100%;
        }
       </style>
@@ -36,8 +38,10 @@
       "地圖": googleStreet
     }).addTo(mymap);
     
-    d3.json('fb_place.json', function(data) {
-        data.forEach(function(d) {
+    d3.json('/fb_place.json', function(data) {
+      data.forEach(function(d) {
+        if (d.location.latitude > 23.28 || d.location.latitude < 22.922)
+          return;
           var circle = L.circle([d.location.latitude, d.location.longitude], 10, {
               color: 'red',
               fillColor: '#f03',
