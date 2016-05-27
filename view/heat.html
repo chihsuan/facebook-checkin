@@ -32,10 +32,10 @@
           subdomains:['mt0','mt1','mt2','mt3']
     });
 
-    googleHybrid.addTo(mymap);
+    //googleHybrid.addTo(mymap);
     googleStreet.addTo(mymap);
     L.control.layers({
-      "地球": googleHybrid,
+      //"地球": googleHybrid,
       "地圖": googleStreet
     }).addTo(mymap);
 
@@ -49,7 +49,7 @@
         //visit = d.visit/500;
 
         for (var i=0; i < visit; ++i) {
-          latlng.push([d.location.latitude, d.location.longitude]);
+          latlng.push([d.latitude, d.longitude]);
         }
       });
 
