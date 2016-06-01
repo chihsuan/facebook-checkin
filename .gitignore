@@ -35,3 +35,4 @@ node_modules
 phantomjs
 tainan*.json
 ids.json
+*.swp

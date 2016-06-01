@@ -11823,5 +11823,2249 @@
       }
     ],
     "pageUrl": "https://www.facebook.com/pages/DAZZLING%2520Cafe%2520Blueberry%2520(%25E5%258F%25B0%25E5%258D%2597%25E6%2596%25B0%25E5%2585%2589%25E4%25B8%2589%25E8%25B6%258A%25E4%25B8%25AD%25E5%25B1%25B1%25E5%25BA%2597%25E4%25BA%258C%25E6%25A8%2593)/450914398271608"
+  },
+  {
+    "category": "Hotel",
+    "category_list": [
+      {
+        "id": "164243073639257",
+        "name": "Hotel"
+      },
+      {
+        "id": "273819889375819",
+        "name": "Restaurant"
+      }
+    ],
+    "location": {
+      "street": "台南市中西區西門路一段660號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "70051",
+      "latitude": 22.98777,
+      "longitude": 120.19793
+    },
+    "name": "Tayih Landis Hotel Tainan 台南大億麗緻酒店",
+    "id": "166374476252",
+    "like": [
+      {
+        "value": 17706,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 142740,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/Tayih%2520Landis%2520Hotel%2520Tainan%2520%25E5%258F%25B0%25E5%258D%2597%25E5%25A4%25A7%25E5%2584%2584%25E9%25BA%2597%25E7%25B7%25BB%25E9%2585%2592%25E5%25BA%2597/166374476252"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "199035016778342",
+        "name": "Japanese Restaurant"
+      }
+    ],
+    "location": {
+      "street": "台南市中正路39巷16號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.99106,
+      "longitude": 120.20207
+    },
+    "name": "花川日式料理",
+    "id": "182340135131908",
+    "like": [
+      {
+        "value": 1784,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 12806,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E8%258A%25B1%25E5%25B7%259D%25E6%2597%25A5%25E5%25BC%258F%25E6%2596%2599%25E7%2590%2586/182340135131908"
+  },
+  {
+    "category": "Shopping/retail",
+    "category_list": [
+      {
+        "id": "344508555610070",
+        "name": "Department Store"
+      },
+      {
+        "id": "192511100766680",
+        "name": "Movie Theater"
+      },
+      {
+        "id": "273819889375819",
+        "name": "Restaurant"
+      }
+    ],
+    "location": {
+      "street": "台南市中西區西門路一段658號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.987050210035,
+      "longitude": 120.19863961208
+    },
+    "name": "新光三越 台南西門店",
+    "id": "109327345774256",
+    "like": [
+      {
+        "value": 117760,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 341351,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E6%2596%25B0%25E5%2585%2589%25E4%25B8%2589%25E8%25B6%258A%2520%25E5%258F%25B0%25E5%258D%2597%25E8%25A5%25BF%25E9%2596%2580%25E5%25BA%2597/109327345774256"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "174201535963762",
+        "name": "Asian Fusion Restaurant"
+      },
+      {
+        "id": "197871390225897",
+        "name": "Cafe"
+      },
+      {
+        "id": "128673187201735",
+        "name": "Coffee Shop"
+      }
+    ],
+    "location": {
+      "street": "高雄市鳳山區體育路37號",
+      "city": "Kaohsiung",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "830",
+      "latitude": 22.6244922,
+      "longitude": 120.3565242
+    },
+    "name": "普羅旺斯",
+    "id": "125572737511392",
+    "like": [
+      {
+        "value": 2479,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 37074,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E6%2599%25AE%25E7%25BE%2585%25E6%2597%25BA%25E6%2596%25AF/125572737511392"
+  },
+  {
+    "category": "Tours/sightseeing",
+    "category_list": [
+      {
+        "id": "197097220301977",
+        "name": "Historical Place"
+      },
+      {
+        "id": "124861974254366",
+        "name": "Tours &amp; Sightseeing"
+      },
+      {
+        "id": "186825111351005",
+        "name": "Tourist Attraction"
+      }
+    ],
+    "location": {
+      "street": "鳳山區鳳明街62號",
+      "city": "Kaohsiung",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "83064",
+      "latitude": 22.627096015403,
+      "longitude": 120.35944982712
+    },
+    "name": "鳳儀書院",
+    "id": "291473064385285",
+    "like": [
+      {
+        "value": 7876,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 62730,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E9%25B3%25B3%25E5%2584%2580%25E6%259B%25B8%25E9%2599%25A2/291473064385285"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "179943432047564",
+        "name": "Concert Venue"
+      },
+      {
+        "id": "148932728496725",
+        "name": "Public Places &amp; Attractions"
+      },
+      {
+        "id": "176831012360626",
+        "name": "Professional Services"
+      }
+    ],
+    "location": {
+      "street": "高雄市鳳山區光遠路161號",
+      "city": "Kaohsiung",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "83057",
+      "latitude": 22.624689119555,
+      "longitude": 120.3635029362
+    },
+    "name": "大東文化藝術中心",
+    "id": "168872786489701",
+    "like": [
+      {
+        "value": 36908,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 225908,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E5%25A4%25A7%25E6%259D%25B1%25E6%2596%2587%25E5%258C%2596%25E8%2597%259D%25E8%25A1%2593%25E4%25B8%25AD%25E5%25BF%2583/168872786489701"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "197871390225897",
+        "name": "Cafe"
+      },
+      {
+        "id": "128673187201735",
+        "name": "Coffee Shop"
+      }
+    ],
+    "location": {
+      "street": "高雄縣鳳山市體育路10號",
+      "city": "Kaohsiung",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "83058",
+      "latitude": 22.623896431199,
+      "longitude": 120.35624765715
+    },
+    "name": "金鑛咖啡鳳凌門市",
+    "id": "159703147415079",
+    "like": [
+      {
+        "value": 1829,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 35515,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E9%2587%2591%25E9%2591%259B%25E5%2592%2596%25E5%2595%25A1%25E9%25B3%25B3%25E5%2587%258C%25E9%2596%2580%25E5%25B8%2582/159703147415079"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "128673187201735",
+        "name": "Coffee Shop"
+      },
+      {
+        "id": "187827497907070",
+        "name": "Bakery"
+      }
+    ],
+    "location": {
+      "street": "高雄市鳳山區三民路296號",
+      "city": "Kaohsiung",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "830",
+      "latitude": 22.62599,
+      "longitude": 120.35818
+    },
+    "name": "多那之鳳山光遠店",
+    "id": "319944044781331",
+    "like": [
+      {
+        "value": 1456,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 35981,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E5%25A4%259A%25E9%2582%25A3%25E4%25B9%258B%25E9%25B3%25B3%25E5%25B1%25B1%25E5%2585%2589%25E9%2581%25A0%25E5%25BA%2597/319944044781331"
+  },
+  {
+    "category": "Food/beverages",
+    "category_list": [
+      {
+        "id": "188334264523313",
+        "name": "Deli"
+      }
+    ],
+    "location": {
+      "street": "高雄市鳳山區體育路1號",
+      "city": "Kaohsiung",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "",
+      "latitude": 22.6241044835,
+      "longitude": 120.35666187132
+    },
+    "name": "昱川全素食綜合燒烤",
+    "id": "155280151196641",
+    "like": [
+      {
+        "value": 4989,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 19381,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E6%2598%25B1%25E5%25B7%259D%25E5%2585%25A8%25E7%25B4%25A0%25E9%25A3%259F%25E7%25B6%259C%25E5%2590%2588%25E7%2587%2592%25E7%2583%25A4/155280151196641"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "167116956674095",
+        "name": "Fondue Restaurant"
+      }
+    ],
+    "location": {
+      "street": "台南市東和路147號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.998394782262,
+      "longitude": 120.22685895897
+    },
+    "name": "夫妻肺片-台南東和店",
+    "id": "516854461667442",
+    "like": [
+      {
+        "value": 1993,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 16364,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E5%25A4%25AB%25E5%25A6%25BB%25E8%2582%25BA%25E7%2589%2587-%25E5%258F%25B0%25E5%258D%2597%25E6%259D%25B1%25E5%2592%258C%25E5%25BA%2597/516854461667442"
+  },
+  {
+    "category": "Food/beverages",
+    "category_list": [
+      {
+        "id": "167116956674095",
+        "name": "Fondue Restaurant"
+      },
+      {
+        "id": "185855984789970",
+        "name": "Asian Restaurant"
+      }
+    ],
+    "location": {
+      "street": "台南市南區新孝路128號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "702",
+      "latitude": 22.9779606,
+      "longitude": 120.1862869
+    },
+    "name": "是吉祥火鍋",
+    "id": "339851322719359",
+    "like": [
+      {
+        "value": 4689,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 82081,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E6%2598%25AF%25E5%2590%2589%25E7%25A5%25A5%25E7%2581%25AB%25E9%258D%258B/339851322719359"
+  },
+  {
+    "category": "Bar",
+    "category_list": [
+      {
+        "id": "192661127431931",
+        "name": "Wine Bar"
+      }
+    ],
+    "location": {
+      "street": "台南市中西區民族路二段57巷5號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.994172996672,
+      "longitude": 120.21052887689
+    },
+    "name": "萬昌起義",
+    "id": "197731440325691",
+    "like": [
+      {
+        "value": 6256,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 21003,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E8%2590%25AC%25E6%2598%258C%25E8%25B5%25B7%25E7%25BE%25A9/197731440325691"
+  },
+  {
+    "category": "University",
+    "category_list": [
+      {
+        "id": "108051929285833",
+        "name": "College &amp; University"
+      },
+      {
+        "id": "187751327923426",
+        "name": "Educational Organization"
+      },
+      {
+        "id": "148932728496725",
+        "name": "Public Places &amp; Attractions"
+      }
+    ],
+    "location": {
+      "street": "No.1, University Road",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.996498061546,
+      "longitude": 120.21722757835
+    },
+    "name": "國立成功大學",
+    "id": "114981525202740",
+    "like": [
+      {
+        "value": 17274,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 140659,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E5%259C%258B%25E7%25AB%258B%25E6%2588%2590%25E5%258A%259F%25E5%25A4%25A7%25E5%25AD%25B8/114981525202740"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "193831710644458",
+        "name": "Italian Restaurant"
+      }
+    ],
+    "location": {
+      "street": "中西區北門路一段123巷42-1號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "",
+      "latitude": 22.99504133,
+      "longitude": 120.210877855
+    },
+    "name": "D.D BEAR",
+    "id": "1627561467506942",
+    "like": [
+      {
+        "value": 4048,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 17287,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/D.D%2520BEAR/1627561467506942"
+  },
+  {
+    "category": "Shopping/retail",
+    "category_list": [
+      {
+        "id": "344508555610070",
+        "name": "Department Store"
+      },
+      {
+        "id": "197871390225897",
+        "name": "Cafe"
+      }
+    ],
+    "location": {
+      "street": "台南市中西區中山路162號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.995100521131,
+      "longitude": 120.20981575793
+    },
+    "name": "新光三越 台南中山店",
+    "id": "109509319094181",
+    "like": [
+      {
+        "value": 48853,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 83337,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E6%2596%25B0%25E5%2585%2589%25E4%25B8%2589%25E8%25B6%258A%2520%25E5%258F%25B0%25E5%258D%2597%25E4%25B8%25AD%25E5%25B1%25B1%25E5%25BA%2597/109509319094181"
+  },
+  {
+    "category": "Food/beverages",
+    "category_list": [
+      {
+        "id": "187153754656815",
+        "name": "Dessert Place"
+      }
+    ],
+    "location": {
+      "street": "東區 育樂街 185號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.9937616,
+      "longitude": 120.214758
+    },
+    "name": "黑工號 嫩仙草",
+    "id": "505171429562983",
+    "like": [
+      {
+        "value": 7006,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 49951,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E9%25BB%2591%25E5%25B7%25A5%25E8%2599%259F%2520%25E5%25AB%25A9%25E4%25BB%2599%25E8%258D%2589/505171429562983"
+  },
+  {
+    "category": "Landmark",
+    "category_list": [
+      {
+        "id": "209889829023118",
+        "name": "Landmark"
+      },
+      {
+        "id": "124861974254366",
+        "name": "Tours &amp; Sightseeing"
+      },
+      {
+        "id": "162648480454674",
+        "name": "Fairground"
+      }
+    ],
+    "location": {
+      "street": "東區衛民街1號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.99242,
+      "longitude": 120.21313
+    },
+    "name": "臺南知事官邸",
+    "id": "1543460582598791",
+    "like": [
+      {
+        "value": 5451,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 10708,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E8%2587%25BA%25E5%258D%2597%25E7%259F%25A5%25E4%25BA%258B%25E5%25AE%2598%25E9%2582%25B8/1543460582598791"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "167116956674095",
+        "name": "Fondue Restaurant"
+      }
+    ],
+    "location": {
+      "street": "台南市中西區中山路166號11樓",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.9956303,
+      "longitude": 120.2101593
+    },
+    "name": "Focus 11F 二鍋(壽喜燒)",
+    "id": "201743373171775",
+    "like": [
+      {
+        "value": 458,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 17031,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/Focus%252011F%2520%25E4%25BA%258C%25E9%258D%258B(%25E5%25A3%25BD%25E5%2596%259C%25E7%2587%2592)/201743373171775"
+  },
+  {
+    "category": "Hospital/clinic",
+    "category_list": [
+      {
+        "id": "133152263416981",
+        "name": "Hospital"
+      }
+    ],
+    "location": {
+      "street": "台南市東區東門路一段57號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "70142",
+      "latitude": 22.989398637653,
+      "longitude": 120.21306038132
+    },
+    "name": "Tainan Sin Lau hospital",
+    "id": "147159275343719",
+    "like": [
+      {
+        "value": 4372,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 74397,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/Tainan%2520Sin%2520Lau%2520hospital/147159275343719"
+  },
+  {
+    "category": "Tours/sightseeing",
+    "category_list": [
+      {
+        "id": "199165013440146",
+        "name": "Beach"
+      },
+      {
+        "id": "124861974254366",
+        "name": "Tours &amp; Sightseeing"
+      },
+      {
+        "id": "183013211744255",
+        "name": "Recreation Center"
+      }
+    ],
+    "location": {
+      "street": "將軍區平沙里140號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "72549",
+      "latitude": 23.218327424711,
+      "longitude": 120.08332497859
+    },
+    "name": "馬沙溝濱海遊憩區",
+    "id": "323177417757601",
+    "like": [
+      {
+        "value": 8760,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 69174,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E9%25A6%25AC%25E6%25B2%2599%25E6%25BA%259D%25E6%25BF%25B1%25E6%25B5%25B7%25E9%2581%258A%25E6%2586%25A9%25E5%258D%2580/323177417757601"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "199165013440146",
+        "name": "Beach"
+      }
+    ],
+    "location": {
+      "street": "將軍區平沙里140號 No.140, Pingsha, Jiangjun Dist.",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "725",
+      "latitude": 23.218290256758,
+      "longitude": 120.08330892488
+    },
+    "name": "馬沙溝海水浴場 Masago Beach",
+    "id": "231163813561430",
+    "like": [
+      {
+        "value": 4824,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 47148,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E9%25A6%25AC%25E6%25B2%2599%25E6%25BA%259D%25E6%25B5%25B7%25E6%25B0%25B4%25E6%25B5%25B4%25E5%25A0%25B4%2520Masago%2520Beach/231163813561430"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "167116956674095",
+        "name": "Fondue Restaurant"
+      }
+    ],
+    "location": {
+      "street": "台南市中華西路二段",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "708",
+      "latitude": 22.986884329,
+      "longitude": 120.18658900007
+    },
+    "name": "輕井澤鍋物 台南店",
+    "id": "1386738984941912",
+    "like": [
+      {
+        "value": 6956,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 104270,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E8%25BC%2595%25E4%25BA%2595%25E6%25BE%25A4%25E9%258D%258B%25E7%2589%25A9%2520%25E5%258F%25B0%25E5%258D%2597%25E5%25BA%2597/1386738984941912"
+  },
+  {
+    "category": "Hotel",
+    "category_list": [
+      {
+        "id": "164243073639257",
+        "name": "Hotel"
+      },
+      {
+        "id": "124861974254366",
+        "name": "Tours &amp; Sightseeing"
+      },
+      {
+        "id": "186825111351005",
+        "name": "Tourist Attraction"
+      }
+    ],
+    "location": {
+      "street": "No.1, Heyi Rd., West Central Dist., Tainan City 700, Taiwan",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.987762026228,
+      "longitude": 120.19935552132
+    },
+    "name": "Silks Place Tainan 台南晶英酒店",
+    "id": "1381390615443840",
+    "like": [
+      {
+        "value": 18230,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 87565,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/Silks%2520Place%2520Tainan%2520%25E5%258F%25B0%25E5%258D%2597%25E6%2599%25B6%25E8%258B%25B1%25E9%2585%2592%25E5%25BA%2597/1381390615443840"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "128673187201735",
+        "name": "Coffee Shop"
+      },
+      {
+        "id": "192108214153222",
+        "name": "Breakfast &amp; Brunch Restaurant"
+      },
+      {
+        "id": "187153754656815",
+        "name": "Dessert Place"
+      }
+    ],
+    "location": {
+      "street": "府前路二段283號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "",
+      "latitude": 22.99203,
+      "longitude": 120.18932
+    },
+    "name": "多一點咖啡館-台南美學館-品牌特許授權店",
+    "id": "317169351740124",
+    "like": [
+      {
+        "value": 9219,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 12165,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E5%25A4%259A%25E4%25B8%2580%25E9%25BB%259E%25E5%2592%2596%25E5%2595%25A1%25E9%25A4%25A8-%25E5%258F%25B0%25E5%258D%2597%25E7%25BE%258E%25E5%25AD%25B8%25E9%25A4%25A8-%25E5%2593%2581%25E7%2589%258C%25E7%2589%25B9%25E8%25A8%25B1%25E6%258E%2588%25E6%25AC%258A%25E5%25BA%2597/317169351740124"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "164049010316507",
+        "name": "Gastropub"
+      },
+      {
+        "id": "163300367054197",
+        "name": "Seafood Restaurant"
+      },
+      {
+        "id": "167116956674095",
+        "name": "Fondue Restaurant"
+      }
+    ],
+    "location": {
+      "street": "東豐路441號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "704",
+      "latitude": 23.002116403526,
+      "longitude": 120.22693805104
+    },
+    "name": "永林牛肉火鍋 台灣台南美食綜合料理 Tainan, Taiwan Local Delicious food: Yonlin Restaurant",
+    "id": "189419041086887",
+    "like": [
+      {
+        "value": 2590,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 17150,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E6%25B0%25B8%25E6%259E%2597%25E7%2589%259B%25E8%2582%2589%25E7%2581%25AB%25E9%258D%258B%2520%25E5%258F%25B0%25E7%2581%25A3%25E5%258F%25B0%25E5%258D%2597%25E7%25BE%258E%25E9%25A3%259F%25E7%25B6%259C%25E5%2590%2588%25E6%2596%2599%25E7%2590%2586%2520Tainan,%2520Taiwan%2520Local%2520Delicious%2520food:%2520Yonlin%2520Restaurant/189419041086887"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "187153754656815",
+        "name": "Dessert Place"
+      },
+      {
+        "id": "200863816597800",
+        "name": "Ice Cream Parlor"
+      },
+      {
+        "id": "219222658110242",
+        "name": "Smoothie &amp; Juice Bar"
+      }
+    ],
+    "location": {
+      "street": "中西區五妃街206號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "70052",
+      "latitude": 22.982567423057,
+      "longitude": 120.20517827393
+    },
+    "name": "懷舊小棧 - 五妃廟口豆腐冰",
+    "id": "532069656812628",
+    "like": [
+      {
+        "value": 5205,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 86594,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E6%2587%25B7%25E8%2588%258A%25E5%25B0%258F%25E6%25A3%25A7%2520-%2520%25E4%25BA%2594%25E5%25A6%2583%25E5%25BB%259F%25E5%258F%25A3%25E8%25B1%2586%25E8%2585%2590%25E5%2586%25B0/532069656812628"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "192108214153222",
+        "name": "Breakfast &amp; Brunch Restaurant"
+      }
+    ],
+    "location": {
+      "street": "台南市中西區南寧街20號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "",
+      "latitude": 22.98466,
+      "longitude": 120.20493
+    },
+    "name": "I - Mita 愛米塔。早午餐。輕食。蜜塔。",
+    "id": "254247611380231",
+    "like": [
+      {
+        "value": 6981,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 10081,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/I%2520-%2520Mita%2520%25E6%2584%259B%25E7%25B1%25B3%25E5%25A1%2594%25E3%2580%2582%25E6%2597%25A9%25E5%258D%2588%25E9%25A4%2590%25E3%2580%2582%25E8%25BC%2595%25E9%25A3%259F%25E3%2580%2582%25E8%259C%259C%25E5%25A1%2594%25E3%2580%2582/254247611380231"
+  },
+  {
+    "category": "Shopping/retail",
+    "category_list": [
+      {
+        "id": "344508555610070",
+        "name": "Department Store"
+      }
+    ],
+    "location": {
+      "street": "台南市中西區中山路166號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.995789099976,
+      "longitude": 120.2100688535
+    },
+    "name": "Focus時尚流行館",
+    "id": "131769453529462",
+    "like": [
+      {
+        "value": 63110,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 46905,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/Focus%25E6%2599%2582%25E5%25B0%259A%25E6%25B5%2581%25E8%25A1%258C%25E9%25A4%25A8/131769453529462"
+  },
+  {
+    "category": "Food/grocery",
+    "category_list": [
+      {
+        "id": "219222658110242",
+        "name": "Smoothie &amp; Juice Bar"
+      }
+    ],
+    "location": {
+      "street": "台南市中西區正興街80號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.9944401,
+      "longitude": 120.1971893
+    },
+    "name": "泰成水果店",
+    "id": "174279569299857",
+    "like": [
+      {
+        "value": 12536,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 45848,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E6%25B3%25B0%25E6%2588%2590%25E6%25B0%25B4%25E6%259E%259C%25E5%25BA%2597/174279569299857"
+  },
+  {
+    "category": "School",
+    "category_list": [
+      {
+        "id": "186998168001766",
+        "name": "Private School"
+      }
+    ],
+    "location": {
+      "street": "林森路二段79號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.989340099854,
+      "longitude": 120.22185559466
+    },
+    "name": "私立長榮高級中學 Chang Jung Senior High School",
+    "id": "135898133113460",
+    "like": [
+      {
+        "value": 14572,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 28905,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E7%25A7%2581%25E7%25AB%258B%25E9%2595%25B7%25E6%25A6%25AE%25E9%25AB%2598%25E7%25B4%259A%25E4%25B8%25AD%25E5%25AD%25B8%2520Chang%2520Jung%2520Senior%2520High%2520School/135898133113460"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "164049010316507",
+        "name": "Gastropub"
+      }
+    ],
+    "location": {
+      "street": "台南市東區長榮路二段272號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "",
+      "latitude": 22.990755954617,
+      "longitude": 120.22100732643
+    },
+    "name": "飛饗創意西式料理-旗艦總店",
+    "id": "272176146283409",
+    "like": [
+      {
+        "value": 7755,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 10937,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E9%25A3%259B%25E9%25A5%2597%25E5%2589%25B5%25E6%2584%258F%25E8%25A5%25BF%25E5%25BC%258F%25E6%2596%2599%25E7%2590%2586-%25E6%2597%2597%25E8%2589%25A6%25E7%25B8%25BD%25E5%25BA%2597/272176146283409"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "128673187201735",
+        "name": "Coffee Shop"
+      }
+    ],
+    "location": {
+      "street": "東區長榮路三段66巷70號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.9935,
+      "longitude": 120.22342
+    },
+    "name": "開普三號店 CAPE CAFE 3",
+    "id": "439555272844579",
+    "like": [
+      {
+        "value": 17696,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 10990,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E9%2596%258B%25E6%2599%25AE%25E4%25B8%2589%25E8%2599%259F%25E5%25BA%2597%2520CAPE%2520CAFE%25203/439555272844579"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "167954166588517",
+        "name": "Diner"
+      },
+      {
+        "id": "150896171638138",
+        "name": "Korean Restaurant"
+      }
+    ],
+    "location": {
+      "street": "東寧路25號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.9922225016,
+      "longitude": 120.22057687337
+    },
+    "name": "韓朝 東寧店",
+    "id": "672771049479196",
+    "like": [
+      {
+        "value": 889,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 13659,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E9%259F%2593%25E6%259C%259D%2520%25E6%259D%25B1%25E5%25AF%25A7%25E5%25BA%2597/672771049479196"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "180256082015845",
+        "name": "Pizza Place"
+      }
+    ],
+    "location": {
+      "street": "台南市東區林森路二段86號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.98706,
+      "longitude": 120.22328
+    },
+    "name": "比薩茶坊",
+    "id": "159068274143625",
+    "like": [
+      {
+        "value": 6210,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 58931,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E6%25AF%2594%25E8%2596%25A9%25E8%258C%25B6%25E5%259D%258A/159068274143625"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "188360891207745",
+        "name": "Modern European Restaurant"
+      },
+      {
+        "id": "197227066968500",
+        "name": "Continental Restaurant"
+      }
+    ],
+    "location": {
+      "street": "大學路22巷12號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.9953194,
+      "longitude": 120.221138
+    },
+    "name": "轉角餐廳 Corner Steak House",
+    "id": "364536626970223",
+    "like": [
+      {
+        "value": 5541,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 17356,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E8%25BD%2589%25E8%25A7%2592%25E9%25A4%2590%25E5%25BB%25B3%2520Corner%2520Steak%2520House/364536626970223"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "187153754656815",
+        "name": "Dessert Place"
+      },
+      {
+        "id": "128673187201735",
+        "name": "Coffee Shop"
+      }
+    ],
+    "location": {
+      "street": "東區中華東路一段366號2樓",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "70155",
+      "latitude": 22.9912468,
+      "longitude": 120.2336752
+    },
+    "name": "跳舞香水 南紡夢時代",
+    "id": "410163299148878",
+    "like": [
+      {
+        "value": 1222,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 15645,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E8%25B7%25B3%25E8%2588%259E%25E9%25A6%2599%25E6%25B0%25B4%2520%25E5%258D%2597%25E7%25B4%25A1%25E5%25A4%25A2%25E6%2599%2582%25E4%25BB%25A3/410163299148878"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "192108214153222",
+        "name": "Breakfast &amp; Brunch Restaurant"
+      },
+      {
+        "id": "187827497907070",
+        "name": "Bakery"
+      }
+    ],
+    "location": {
+      "street": "東區凱旋路248號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.99349,
+      "longitude": 120.22833
+    },
+    "name": "Domo Pann 多麼胖咖啡東興店",
+    "id": "342715032576200",
+    "like": [
+      {
+        "value": 2340,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 26963,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/Domo%2520Pann%2520%25E5%25A4%259A%25E9%25BA%25BC%25E8%2583%2596%25E5%2592%2596%25E5%2595%25A1%25E6%259D%25B1%25E8%2588%2588%25E5%25BA%2597/342715032576200"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "167954166588517",
+        "name": "Diner"
+      },
+      {
+        "id": "110290705711626",
+        "name": "Bar"
+      }
+    ],
+    "location": {
+      "street": "崇明七街131號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.97964,
+      "longitude": 120.21881
+    },
+    "name": "Malibu泰式料理餐廳",
+    "id": "352766224801148",
+    "like": [
+      {
+        "value": 5429,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 17211,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/Malibu%25E6%25B3%25B0%25E5%25BC%258F%25E6%2596%2599%25E7%2590%2586%25E9%25A4%2590%25E5%25BB%25B3/352766224801148"
+  },
+  {
+    "category": "Sports/recreation/activities",
+    "category_list": [
+      {
+        "id": "184405378265823",
+        "name": "Gym"
+      }
+    ],
+    "location": {
+      "street": "東區崇明路117號B1F",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.9795609,
+      "longitude": 120.2178192
+    },
+    "name": "維達都會生活俱樂部 La Vida Health Club",
+    "id": "191742154201395",
+    "like": [
+      {
+        "value": 3004,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 10948,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E7%25B6%25AD%25E9%2581%2594%25E9%2583%25BD%25E6%259C%2583%25E7%2594%259F%25E6%25B4%25BB%25E4%25BF%25B1%25E6%25A8%2582%25E9%2583%25A8%2520La%2520Vida%2520Health%2520Club/191742154201395"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "197227066968500",
+        "name": "Continental Restaurant"
+      },
+      {
+        "id": "149803325077018",
+        "name": "American Restaurant"
+      }
+    ],
+    "location": {
+      "street": "崇學路143號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.97962,
+      "longitude": 120.22279
+    },
+    "name": "加州廚房",
+    "id": "154606681262277",
+    "like": [
+      {
+        "value": 2179,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 12957,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E5%258A%25A0%25E5%25B7%259E%25E5%25BB%259A%25E6%2588%25BF/154606681262277"
+  },
+  {
+    "category": "Health/medical/pharmacy",
+    "category_list": [
+      {
+        "id": "200600219953504",
+        "name": "Shopping &amp; Retail"
+      }
+    ],
+    "location": {
+      "street": "台南市東區崇善路171號1F-共7間分店",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.98084,
+      "longitude": 120.22317
+    },
+    "name": "準媽媽婦嬰用品專賣店(直營系統)",
+    "id": "293327740723480",
+    "like": [
+      {
+        "value": 75845,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 26846,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E6%25BA%2596%25E5%25AA%25BD%25E5%25AA%25BD%25E5%25A9%25A6%25E5%25AC%25B0%25E7%2594%25A8%25E5%2593%2581%25E5%25B0%2588%25E8%25B3%25A3%25E5%25BA%2597(%25E7%259B%25B4%25E7%2587%259F%25E7%25B3%25BB%25E7%25B5%25B1)/293327740723480"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "199035016778342",
+        "name": "Japanese Restaurant"
+      }
+    ],
+    "location": {
+      "street": "東區崇善路51號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.982336017913,
+      "longitude": 120.22109105269
+    },
+    "name": "銀座日式料理",
+    "id": "128914383843025",
+    "like": [
+      {
+        "value": 2612,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 25388,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E9%258A%2580%25E5%25BA%25A7%25E6%2597%25A5%25E5%25BC%258F%25E6%2596%2599%25E7%2590%2586/128914383843025"
+  },
+  {
+    "category": "Hotel",
+    "category_list": [
+      {
+        "id": "164243073639257",
+        "name": "Hotel"
+      },
+      {
+        "id": "162648480454674",
+        "name": "Fairground"
+      },
+      {
+        "id": "211155112228091",
+        "name": "Event Venue"
+      }
+    ],
+    "location": {
+      "street": "台南市中西區正興街11號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.99398,
+      "longitude": 120.19841
+    },
+    "name": "JJ-W Hotel",
+    "id": "131362660220276",
+    "like": [
+      {
+        "value": 12691,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 13224,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/JJ-W%2520Hotel/131362660220276"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "200863816597800",
+        "name": "Ice Cream Parlor"
+      }
+    ],
+    "location": {
+      "street": "台南市中西區正興街92號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.994355840866,
+      "longitude": 120.19726951584
+    },
+    "name": "蜷尾家 甘味处。。。散步甜食",
+    "id": "267299966670043",
+    "like": [
+      {
+        "value": 64196,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 140002,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E8%259C%25B7%25E5%25B0%25BE%25E5%25AE%25B6%2520%25E7%2594%2598%25E5%2591%25B3%25E5%25A4%2584%25E3%2580%2582%25E3%2580%2582%25E3%2580%2582%25E6%2595%25A3%25E6%25AD%25A5%25E7%2594%259C%25E9%25A3%259F/267299966670043"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "144362285623268",
+        "name": "Food Stand"
+      }
+    ],
+    "location": {
+      "street": "台南市中西區國華街三段5號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.993561897255,
+      "longitude": 120.19768239964
+    },
+    "name": "邱家傳統小吃小卷米粉",
+    "id": "242547202445920",
+    "like": [
+      {
+        "value": 1173,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 29105,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E9%2582%25B1%25E5%25AE%25B6%25E5%2582%25B3%25E7%25B5%25B1%25E5%25B0%258F%25E5%2590%2583%25E5%25B0%258F%25E5%258D%25B7%25E7%25B1%25B3%25E7%25B2%2589/242547202445920"
+  },
+  {
+    "category": "Food/grocery",
+    "category_list": [
+      {
+        "id": "200863816597800",
+        "name": "Ice Cream Parlor"
+      },
+      {
+        "id": "215290398491661",
+        "name": "Frozen Yogurt Shop"
+      }
+    ],
+    "location": {
+      "street": "台南市中西區國華街三段26號A2",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.993611368859,
+      "longitude": 120.19763413239
+    },
+    "name": "Chiuanhouse",
+    "id": "174285859397729",
+    "like": [
+      {
+        "value": 21907,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 15124,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/Chiuanhouse/174285859397729"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "203462172997785",
+        "name": "Tea Room"
+      },
+      {
+        "id": "200863816597800",
+        "name": "Ice Cream Parlor"
+      },
+      {
+        "id": "187153754656815",
+        "name": "Dessert Place"
+      }
+    ],
+    "location": {
+      "street": "台南市中西區西門路二段222號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.995107637143,
+      "longitude": 120.19949022102
+    },
+    "name": "花見宇治抹茶甘味処",
+    "id": "386375414797038",
+    "like": [
+      {
+        "value": 7756,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 12315,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E8%258A%25B1%25E8%25A6%258B%25E5%25AE%2587%25E6%25B2%25BB%25E6%258A%25B9%25E8%258C%25B6%25E7%2594%2598%25E5%2591%25B3%25E5%2587%25A6/386375414797038"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "1578263382424714",
+        "name": "Place to Eat/Drink"
+      }
+    ],
+    "location": {
+      "street": "中西區國華街三段16巷13號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.99334,
+      "longitude": 120.19769
+    },
+    "name": "江水號",
+    "id": "149698248416917",
+    "like": [
+      {
+        "value": 3457,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 27488,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E6%25B1%259F%25E6%25B0%25B4%25E8%2599%259F/149698248416917"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "193831710644458",
+        "name": "Italian Restaurant"
+      }
+    ],
+    "location": {
+      "street": "中西區海安路二段90號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.994845396489,
+      "longitude": 120.19656153963
+    },
+    "name": "Mumu白姆森林（美、義料理）",
+    "id": "439569106100845",
+    "like": [
+      {
+        "value": 3315,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 16883,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/Mumu%25E7%2599%25BD%25E5%25A7%2586%25E6%25A3%25AE%25E6%259E%2597%25EF%25BC%2588%25E7%25BE%258E%25E3%2580%2581%25E7%25BE%25A9%25E6%2596%2599%25E7%2590%2586%25EF%25BC%2589/439569106100845"
+  },
+  {
+    "category": "Travel/leisure",
+    "category_list": [
+      {
+        "id": "164243073639257",
+        "name": "Hotel"
+      },
+      {
+        "id": "181289228581329",
+        "name": "Fine Dining Restaurant"
+      },
+      {
+        "id": "211155112228091",
+        "name": "Event Venue"
+      }
+    ],
+    "location": {
+      "street": "89 Section West, University Road",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "70146",
+      "latitude": 22.996495579963,
+      "longitude": 120.21429077317
+    },
+    "name": "Shangri-La Tainan 香格里拉台南遠東國際大飯店",
+    "id": "91781091846",
+    "like": [
+      {
+        "value": 40346,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 177621,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/Shangri-La%2520Tainan%2520%25E9%25A6%2599%25E6%25A0%25BC%25E9%2587%258C%25E6%258B%2589%25E5%258F%25B0%25E5%258D%2597%25E9%2581%25A0%25E6%259D%25B1%25E5%259C%258B%25E9%259A%259B%25E5%25A4%25A7%25E9%25A3%25AF%25E5%25BA%2597/91781091846"
+  },
+  {
+    "category": "Hotel",
+    "category_list": [
+      {
+        "id": "164243073639257",
+        "name": "Hotel"
+      },
+      {
+        "id": "273819889375819",
+        "name": "Restaurant"
+      }
+    ],
+    "location": {
+      "street": "成功路1號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "700",
+      "latitude": 22.99715,
+      "longitude": 120.21083
+    },
+    "name": "台南大飯店 Hotel Tainan",
+    "id": "118208138524917",
+    "like": [
+      {
+        "value": 2187,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 92899,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E5%258F%25B0%25E5%258D%2597%25E5%25A4%25A7%25E9%25A3%25AF%25E5%25BA%2597%2520Hotel%2520Tainan/118208138524917"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "203462172997785",
+        "name": "Tea Room"
+      }
+    ],
+    "location": {
+      "street": "台南市東區樹林街一段36號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.985807155289,
+      "longitude": 120.2160109703
+    },
+    "name": "Kadoya喫茶店",
+    "id": "439972049401961",
+    "like": [
+      {
+        "value": 23969,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 10953,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/Kadoya%25E5%2596%25AB%25E8%258C%25B6%25E5%25BA%2597/439972049401961"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "273819889375819",
+        "name": "Restaurant"
+      }
+    ],
+    "location": {
+      "street": "東區東榮街105號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.98879,
+      "longitude": 120.21526
+    },
+    "name": "毛丼 丼飯專門店",
+    "id": "688565001234091",
+    "like": [
+      {
+        "value": 37506,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 24675,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E6%25AF%259B%25E4%25B8%25BC%2520%25E4%25B8%25BC%25E9%25A3%25AF%25E5%25B0%2588%25E9%2596%2580%25E5%25BA%2597/688565001234091"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "192108214153222",
+        "name": "Breakfast &amp; Brunch Restaurant"
+      },
+      {
+        "id": "128673187201735",
+        "name": "Coffee Shop"
+      },
+      {
+        "id": "187153754656815",
+        "name": "Dessert Place"
+      }
+    ],
+    "location": {
+      "street": "大學路22巷3號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.9956299,
+      "longitude": 120.22123
+    },
+    "name": "KAFFE at HOME",
+    "id": "174347242618106",
+    "like": [
+      {
+        "value": 8034,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 32647,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/KAFFE%2520at%2520HOME/174347242618106"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "188360891207745",
+        "name": "Modern European Restaurant"
+      }
+    ],
+    "location": {
+      "street": "台南市東區大學路18巷11號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.9951,
+      "longitude": 120.22101
+    },
+    "name": "Noah's ark 諾亞方舟主廚餐廳",
+    "id": "122348704475757",
+    "like": [
+      {
+        "value": 11269,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 25046,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/Noah's%2520ark%2520%25E8%25AB%25BE%25E4%25BA%259E%25E6%2596%25B9%25E8%2588%259F%25E4%25B8%25BB%25E5%25BB%259A%25E9%25A4%2590%25E5%25BB%25B3/122348704475757"
+  },
+  {
+    "category": "Health/medical/pharmaceuticals",
+    "category_list": [
+      {
+        "id": "128282540573946",
+        "name": "Health Care Administration"
+      },
+      {
+        "id": "180931928610132",
+        "name": "Medical Research"
+      },
+      {
+        "id": "228143393877753",
+        "name": "Medical Center"
+      }
+    ],
+    "location": {
+      "street": "勝利路138號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "704",
+      "latitude": 23.0021992,
+      "longitude": 120.2192078
+    },
+    "name": "成大醫院",
+    "id": "1617229108525905",
+    "like": [
+      {
+        "value": 6007,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 77056,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E6%2588%2590%25E5%25A4%25A7%25E9%2586%25AB%25E9%2599%25A2/1617229108525905"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "167116956674095",
+        "name": "Fondue Restaurant"
+      }
+    ],
+    "location": {
+      "street": "台南市東區勝利路118號1F(成大會館)",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.995345825567,
+      "longitude": 120.21846061554
+    },
+    "name": "鬥牛士二鍋成大店",
+    "id": "168365476563975",
+    "like": [
+      {
+        "value": 1981,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 34606,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E9%25AC%25A5%25E7%2589%259B%25E5%25A3%25AB%25E4%25BA%258C%25E9%258D%258B%25E6%2588%2590%25E5%25A4%25A7%25E5%25BA%2597/168365476563975"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "187425207958280",
+        "name": "Burger Restaurant"
+      },
+      {
+        "id": "149803325077018",
+        "name": "American Restaurant"
+      }
+    ],
+    "location": {
+      "street": "東區育樂街196號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "701",
+      "latitude": 22.99382,
+      "longitude": 120.21456
+    },
+    "name": "AJ Burger美式餐廳",
+    "id": "146709338718589",
+    "like": [
+      {
+        "value": 13580,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 19990,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/AJ%2520Burger%25E7%25BE%258E%25E5%25BC%258F%25E9%25A4%2590%25E5%25BB%25B3/146709338718589"
+  },
+  {
+    "category": "Health/beauty",
+    "category_list": [
+      {
+        "id": "174177802634376",
+        "name": "Hair Salon"
+      }
+    ],
+    "location": {
+      "street": "台南市安平區健康三街63號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "70846",
+      "latitude": 22.9865629,
+      "longitude": 120.1680442
+    },
+    "name": "In STYLE hair studio",
+    "id": "662556073838497",
+    "like": [
+      {
+        "value": 2400,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 10474,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/In%2520STYLE%2520hair%2520studio/662556073838497"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "197097220301977",
+        "name": "Historical Place"
+      },
+      {
+        "id": "209889829023118",
+        "name": "Landmark"
+      },
+      {
+        "id": "115090141929327",
+        "name": "Park"
+      }
+    ],
+    "location": {
+      "street": "Anping Road Lane 33 Alley 8",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "708",
+      "latitude": 22.99894,
+      "longitude": 120.16729
+    },
+    "name": "安平古堡",
+    "id": "595439000501167",
+    "like": [
+      {
+        "value": 4934,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 289311,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E5%25AE%2589%25E5%25B9%25B3%25E5%258F%25A4%25E5%25A0%25A1/595439000501167"
+  },
+  {
+    "category": "Restaurant/cafe",
+    "category_list": [
+      {
+        "id": "192108214153222",
+        "name": "Breakfast &amp; Brunch Restaurant"
+      },
+      {
+        "id": "193831710644458",
+        "name": "Italian Restaurant"
+      },
+      {
+        "id": "128673187201735",
+        "name": "Coffee Shop"
+      }
+    ],
+    "location": {
+      "street": "台南市安平區永華路二段701號",
+      "city": "Tainan",
+      "state": "",
+      "country": "Taiwan",
+      "zip": "708",
+      "latitude": 22.99114,
+      "longitude": 120.17265
+    },
+    "name": "Daylight光合箱子",
+    "id": "443218702473665",
+    "like": [
+      {
+        "value": 9391,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 15771,
+        "date": "Wed Jun 01 2016 21:54:42 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/Daylight%25E5%2585%2589%25E5%2590%2588%25E7%25AE%25B1%25E5%25AD%2590/443218702473665"
+  },
+  {
+    "category": "Local business",
+    "category_list": [
+      {
+        "id": "173883042668223",
+        "name": "Theater"
+      }
+    ],
+    "location": {
+      "street": "台南市中西區公園路60號8樓",
+      "city": "",
+      "zip": "700",
+      "latitude": 22.9960915,
+      "longitude": 120.205319
+    },
+    "name": "大遠百華納威秀影城",
+    "id": "122103834636516",
+    "like": [
+      {
+        "value": 224,
+        "date": "Wed Jun 01 2016 22:09:53 GMT+0800 (CST)"
+      }
+    ],
+    "visit": [
+      {
+        "value": 41470,
+        "date": "Wed Jun 01 2016 22:09:53 GMT+0800 (CST)"
+      }
+    ],
+    "pageUrl": "https://www.facebook.com/pages/%25E5%258F%25B0%25E5%258D%2597%25E5%25B8%2582%25E8%258F%25AF%25E7%25B4%258D%25E5%25A8%2581%25E7%25A7%2580/340836552601733?rf=122103834636516"
   }
 ]
