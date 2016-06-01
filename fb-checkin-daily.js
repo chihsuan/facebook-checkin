@@ -3,19 +3,21 @@ var async = require("async");
 var fs = require('fs');
 var args = system.args;
 
-var data = require('./fb_checkin.json');
-var lookup = require('./checkin_lookup.json');
-var places = require('./fb_place.json');
+var data = require('./fb_checkin_daily.json');
+var lookup = require('./checkin_lookup_daily.json');
+var places = require('./fb_checkin.json');
 var count = 0;
-var NUMVER_TO_WRITE = 10;
+var NUMVER_TO_WRITE = 1;
 var MAX_NUMBER = 2000;
+var date = new Date().toString();
 
 //places = places.reverse();
 //places = places.slice(3280);
 
 var q = async.queue(function (p, done) {
 
-  var pageUrl = 'https://www.facebook.com/pages/'+p.name+'/'+p.id;
+  //var pageUrl = 'https://www.facebook.com/pages/'+p.name+'/'+p.id;
+  var pageUrl = p.pageUrl;
 
   // Manual input
   if (lookup.hasOwnProperty(p.name) && lookup[p.name] === false) {
@@ -29,6 +31,7 @@ var q = async.queue(function (p, done) {
   console.log(p.name, pageUrl);
   page.open(pageUrl, function(status) {
     console.log(status);
+      count += 1;
     if(status === "success") {
       if (page.content.indexOf('讚') < 0 && page.content.indexOf('訪') < 0) {
         lookup[p.name] = false;
@@ -38,7 +41,6 @@ var q = async.queue(function (p, done) {
       }
       console.log(page.content.indexOf('讚'), count);
 
-      count += 1;
       page.includeJs("http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js", function() {
         var d = page.evaluate(function() {
 
@@ -90,16 +92,24 @@ var q = async.queue(function (p, done) {
           d.visit = 0;
 
         console.log('按讚數：' + d.like, '造訪人數：'+d.visit);
+	  p.like = [];
+	  p.visit = [];
 
-        p.like = d.like;
-        p.visit = d.visit;
+        p.like.push({
+	  value: d.like,
+	  date: date
+	});
+        p.visit.push({
+	  value: d.visit,
+	  date: date
+	});
         p.pageUrl = pageUrl;
         data.push(p);
         lookup[p.name] = true;
 
         if (count % NUMVER_TO_WRITE === 0) {
-          fs.write('./fb_checkin.json', JSON.stringify(data, null, 2), 'w');
-          fs.write('./checkin_lookup.json', JSON.stringify(lookup, null, 2), 'w');
+          fs.write('./fb_checkin_daily.json', JSON.stringify(data, null, 2), 'w');
+          fs.write('./checkin_lookup_daily.json', JSON.stringify(lookup, null, 2), 'w');
         }
 
         if (count > MAX_NUMBER) {
@@ -119,8 +129,7 @@ var q = async.queue(function (p, done) {
 
 var g = false;
 places.forEach(function(p) {
-  if ((lookup.hasOwnProperty(p.name)) ||
-    p.location.latitude > 23.28 || p.location.latitude < 22.822) {
+  if ((lookup.hasOwnProperty(p.name) && lookup[p.name] !== false) || p.visit < 10000) {
     return;
   }
   q.push(p);
