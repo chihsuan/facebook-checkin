@@ -128,8 +128,9 @@ var q = async.queue(function (p, done) {
 });
 
 var g = false;
-places.forEach(function(p) {
-  if ((lookup.hasOwnProperty(p.name) && lookup[p.name] !== false) || p.visit < 10000) {
+data.forEach(function(p) {
+  if ((lookup.hasOwnProperty(p.name) && lookup[p.name] !== false) || p.visit < 10000 ||
+   p.location.latitude > 23.28 || p.location.latitude < 22.822) {
     return;
   }
   q.push(p);
