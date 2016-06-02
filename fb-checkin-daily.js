@@ -51,7 +51,7 @@ var q = async.queue(function (p, done) {
             like,
             visit;
 
-          if (arr && arr.length > 0) {
+          if ((tr.indexOf('讚') || tr.indexOf('人次')) && arr && arr.length > 0) {
             if (tr.indexOf('讚') >= 0) {
               like = arr[0].replace('個', '').replace(/[, ]/g, '');
               visit = arr[1].replace('人次造訪', '').replace(/[, ]/g, '');
@@ -62,14 +62,14 @@ var q = async.queue(function (p, done) {
             }
           }
           else {
-            arr = $('._50f5').text().split('讚');
+            /*arr = $('._50f5').text().split('讚');
             if (!arr || arr.length < 1) {
               return page;
-            }
+            }*/
+            arr = ['', document.querySelectorAll('._52id')[1].innerHTML];
             like = $('#PagesLikesCountDOMID').text().replace(',', '').replace(/[, ]/g, '');
             visit = arr[1].replace(',', '').replace('人次造訪', '').replace(/[, ]/g, '');
           }
-
           page = {
             like: parseInt(like),
             visit: parseInt(visit)
@@ -79,7 +79,7 @@ var q = async.queue(function (p, done) {
         });
 
         if (!d || (!d.like && !d.visit)) {
-          console.log('--->'+ d);
+          console.log('--->' + d);
           lookup[p.name] = false;
           page.close();
           done();
