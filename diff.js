@@ -15,6 +15,7 @@ data.forEach(function(d) {
   }
 });
 outputFilename = './simplify_checkin_daily.json';
+console.log(output.length);
 fs.writeFile(outputFilename, JSON.stringify(output, null, 2), function(err) {
    process.exit(0);
 });
