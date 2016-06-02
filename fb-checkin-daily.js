@@ -92,17 +92,17 @@ var q = async.queue(function (p, done) {
           d.visit = 0;
 
         console.log('按讚數：' + d.like, '造訪人數：'+d.visit);
-	  p.like = [];
-	  p.visit = [];
 
         p.like.push({
 	  value: d.like,
 	  date: date
 	});
+
         p.visit.push({
 	  value: d.visit,
 	  date: date
 	});
+
         p.pageUrl = pageUrl;
         data.push(p);
         lookup[p.name] = true;
