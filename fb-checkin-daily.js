@@ -16,8 +16,8 @@ var date = new Date().toString();
 
 var q = async.queue(function (p, done) {
 
-  //var pageUrl = 'https://www.facebook.com/pages/'+p.name+'/'+p.id;
-  var pageUrl = p.pageUrl;
+  var pageUrl = 'https://www.facebook.com/pages/'+p.name+'/'+p.id;
+  //var pageUrl = p.pageUrl;
 
   // Manual input
   if (lookup.hasOwnProperty(p.name) && lookup[p.name] === false) {
@@ -33,13 +33,13 @@ var q = async.queue(function (p, done) {
     console.log(status);
       count += 1;
     if(status === "success") {
+      console.log(page.content.indexOf('讚'), count);
       if (page.content.indexOf('讚') < 0 && page.content.indexOf('訪') < 0) {
         lookup[p.name] = false;
         page.close();
         done();
         return;
       }
-      console.log(page.content.indexOf('讚'), count);
 
       page.includeJs("http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js", function() {
         var d = page.evaluate(function() {
@@ -132,9 +132,9 @@ var q = async.queue(function (p, done) {
 });
 
 var g = false;
-places.forEach(function(p) {
-  if ((lookup.hasOwnProperty(p.name)) || p.visit < 5000 ||
-   p.location.latitude > 23.28 || p.location.latitude < 22.822) {
+data.forEach(function(p) {
+  if ((lookup.hasOwnProperty(p.name) && lookup[p.name] !== false) || p.visit < 10000 ||
+    p.location.latitude > 23.28 || p.location.latitude < 22.822) {
     return;
   }
   q.push(p);
