@@ -6,7 +6,8 @@ data.forEach(function(d) {
     return
   var diff = d.visit[1].value - d.visit[0].value;
   if (diff > 0 && diff < 1000) {
-    console.log(diff, d.visit[1].value, d.visit[0].value, d.name);
+    //console.log(diff, d.visit[1].value, d.visit[0].value, d.name);
+    console.log(diff, d.name);
     output.push({
       visit: diff,
       longitude: d.location.longitude,
