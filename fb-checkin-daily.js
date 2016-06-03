@@ -92,16 +92,20 @@ var q = async.queue(function (p, done) {
           d.visit = 0;
 
         console.log('按讚數：' + d.like, '造訪人數：'+d.visit);
+        if (p.like && p.like.constructor !== Array) {
+          p.like = [];
+          p.visit = [];
+        }
 
         p.like.push({
-	  value: d.like,
-	  date: date
-	});
+          value: d.like,
+          date: date
+        });
 
         p.visit.push({
-	  value: d.visit,
-	  date: date
-	});
+          value: d.visit,
+          date: date
+        });
 
         p.pageUrl = pageUrl;
         data.push(p);
@@ -128,8 +132,8 @@ var q = async.queue(function (p, done) {
 });
 
 var g = false;
-data.forEach(function(p) {
-  if ((lookup.hasOwnProperty(p.name) && lookup[p.name] !== false) || p.visit < 10000 ||
+places.forEach(function(p) {
+  if ((lookup.hasOwnProperty(p.name)) || p.visit < 5000 ||
    p.location.latitude > 23.28 || p.location.latitude < 22.822) {
     return;
   }
