@@ -1,6 +1,6 @@
 var request = require('request');
 
-var data = require('./fb_checkin.json');
+var data = require('./data/fb_checkin.json');
 var opt = {
   url: 'http://127.0.0.1:8000/checkin/place/',
   method: 'POST',
