@@ -1,1242 +1,1358 @@
 [
   {
-    "visit": 14,
-    "longitude": 120.20270271355,
-    "latitude": 22.991666504651
-  },
-  {
-    "visit": 1,
-    "longitude": 120.20519782594,
-    "latitude": 22.99010517545
-  },
-  {
-    "visit": 12,
-    "longitude": 120.21058,
-    "latitude": 22.99356
-  },
-  {
-    "visit": 10,
-    "longitude": 120.2094579,
-    "latitude": 22.9956648
-  },
-  {
-    "visit": 10,
-    "longitude": 120.08797711639,
-    "latitude": 23.211039753914
-  },
-  {
-    "visit": 125,
-    "longitude": 120.1876511,
-    "latitude": 22.9890909
-  },
-  {
-    "visit": 13,
-    "longitude": 120.18730048133,
-    "latitude": 22.990860843203
-  },
-  {
-    "visit": 381,
-    "longitude": 120.19721899186,
-    "latitude": 22.986983811672
-  },
-  {
-    "visit": 103,
-    "longitude": 120.200817,
-    "latitude": 22.981624
-  },
-  {
-    "visit": 56,
-    "longitude": 120.23293733967,
-    "latitude": 22.99103966379
-  },
-  {
-    "visit": 7,
-    "longitude": 120.23401475527,
-    "latitude": 22.99588294623
-  },
-  {
-    "visit": 1,
-    "longitude": 120.22130284575,
-    "latitude": 22.979366799069
-  },
-  {
-    "visit": 13,
-    "longitude": 120.2217902,
-    "latitude": 22.9799581
-  },
-  {
-    "visit": 13,
-    "longitude": 120.22068,
-    "latitude": 22.97383
-  },
-  {
-    "visit": 34,
-    "longitude": 120.22082,
-    "latitude": 22.97444
-  },
-  {
-    "visit": 8,
-    "longitude": 120.2217,
-    "latitude": 22.99586
-  },
-  {
-    "visit": 10,
-    "longitude": 120.1976860957,
-    "latitude": 22.993864149254
-  },
-  {
-    "visit": 23,
-    "longitude": 120.20041416376,
-    "latitude": 22.994201004548
-  },
-  {
-    "visit": 30,
-    "longitude": 120.20618754185,
-    "latitude": 22.995549850652
-  },
-  {
-    "visit": 18,
-    "longitude": 120.21026,
-    "latitude": 22.98958
-  },
-  {
-    "visit": 25,
-    "longitude": 120.21433034923,
-    "latitude": 22.996634510367
-  },
-  {
-    "visit": 98,
-    "longitude": 120.21941518344,
-    "latitude": 23.002217206316
-  },
-  {
-    "visit": 12,
-    "longitude": 120.22115,
-    "latitude": 22.99579
-  },
-  {
-    "visit": 23,
-    "longitude": 120.21814627428,
-    "latitude": 22.994897958529
-  },
-  {
-    "visit": 24,
-    "longitude": 120.16354365875,
-    "latitude": 22.990438462529
-  },
-  {
-    "visit": 10,
-    "longitude": 120.15774199652,
-    "latitude": 22.994065245015
-  },
-  {
     "visit": 1,
     "longitude": 120.16803,
-    "latitude": 22.99461
-  },
-  {
-    "visit": 87,
-    "longitude": 120.16080528271,
-    "latitude": 23.001228038111
-  },
-  {
-    "visit": 2,
-    "longitude": 120.18199422583,
-    "latitude": 22.992884723416
+    "latitude": 22.99461,
+    "name": "安平秋茂園"
   },
   {
     "visit": 1,
-    "longitude": 120.18570852685,
-    "latitude": 22.998042744245
-  },
-  {
-    "visit": 56,
-    "longitude": 120.18091,
-    "latitude": 22.9895299
-  },
-  {
-    "visit": 21,
-    "longitude": 120.18737,
-    "latitude": 22.99277
-  },
-  {
-    "visit": 19,
-    "longitude": 120.18835036767,
-    "latitude": 22.992543174726
-  },
-  {
-    "visit": 1,
-    "longitude": 120.18925633512,
-    "latitude": 22.989678207079
-  },
-  {
-    "visit": 20,
-    "longitude": 120.19874883982,
-    "latitude": 22.98597122174
-  },
-  {
-    "visit": 1,
-    "longitude": 120.17174833708,
-    "latitude": 23.163830095139
-  },
-  {
-    "visit": 11,
-    "longitude": 120.2625961,
-    "latitude": 23.1894474
-  },
-  {
-    "visit": 25,
-    "longitude": 120.22115555556,
-    "latitude": 22.991069444444
-  },
-  {
-    "visit": 7,
-    "longitude": 120.22538,
-    "latitude": 22.97132
-  },
-  {
-    "visit": 16,
-    "longitude": 120.161134,
-    "latitude": 23.003993
-  },
-  {
-    "visit": 10,
-    "longitude": 120.1596677562,
-    "latitude": 23.003335876822
-  },
-  {
-    "visit": 13,
-    "longitude": 120.21069594405,
-    "latitude": 23.001824288535
-  },
-  {
-    "visit": 4,
-    "longitude": 120.20473,
-    "latitude": 23.00243
-  },
-  {
-    "visit": 11,
-    "longitude": 120.20195563603,
-    "latitude": 23.002995059302
-  },
-  {
-    "visit": 27,
-    "longitude": 120.20326201989,
-    "latitude": 23.004747392033
-  },
-  {
-    "visit": 1,
-    "longitude": 120.19794,
-    "latitude": 22.98834
-  },
-  {
-    "visit": 19,
-    "longitude": 120.1948633,
-    "latitude": 22.9892868
-  },
-  {
-    "visit": 1,
-    "longitude": 120.1474464754,
-    "latitude": 22.997215896129
-  },
-  {
-    "visit": 2,
-    "longitude": 120.151474,
-    "latitude": 22.9931731
-  },
-  {
-    "visit": 5,
-    "longitude": 120.16294,
-    "latitude": 23.00068
-  },
-  {
-    "visit": 82,
-    "longitude": 120.20677690043,
-    "latitude": 22.985030044598
-  },
-  {
-    "visit": 49,
-    "longitude": 120.2008133,
-    "latitude": 22.9818993
-  },
-  {
-    "visit": 125,
-    "longitude": 120.21837771527,
-    "latitude": 22.981626854754
-  },
-  {
-    "visit": 47,
-    "longitude": 120.1936512,
-    "latitude": 23.0161435
-  },
-  {
-    "visit": 330,
-    "longitude": 120.19343913971,
-    "latitude": 23.010363926672
-  },
-  {
-    "visit": 5,
-    "longitude": 120.1938015,
-    "latitude": 23.0099397
-  },
-  {
-    "visit": 62,
-    "longitude": 120.18707872014,
-    "latitude": 22.982340517677
-  },
-  {
-    "visit": 23,
-    "longitude": 120.19508,
-    "latitude": 22.98783
-  },
-  {
-    "visit": 25,
-    "longitude": 120.20207,
-    "latitude": 22.99674
-  },
-  {
-    "visit": 1,
-    "longitude": 120.20136,
-    "latitude": 22.99737
-  },
-  {
-    "visit": 14,
-    "longitude": 120.2419,
-    "latitude": 22.9868099
-  },
-  {
-    "visit": 2,
-    "longitude": 120.17913393594,
-    "latitude": 22.997524545472
-  },
-  {
-    "visit": 3,
-    "longitude": 120.19780200611,
-    "latitude": 22.988245991803
-  },
-  {
-    "visit": 11,
-    "longitude": 120.20434058143,
-    "latitude": 22.989832028403
-  },
-  {
-    "visit": 6,
-    "longitude": 120.21445207916,
-    "latitude": 22.996932071012
-  },
-  {
-    "visit": 7,
-    "longitude": 120.19821037581,
-    "latitude": 22.98739150113
-  },
-  {
-    "visit": 29,
-    "longitude": 120.19890261424,
-    "latitude": 22.997467676134
-  },
-  {
-    "visit": 8,
-    "longitude": 120.20927,
-    "latitude": 22.9957
-  },
-  {
-    "visit": 2,
-    "longitude": 120.23068,
-    "latitude": 22.99057
-  },
-  {
-    "visit": 18,
-    "longitude": 120.22966,
-    "latitude": 22.99005
-  },
-  {
-    "visit": 20,
-    "longitude": 120.20204,
-    "latitude": 22.99692
-  },
-  {
-    "visit": 42,
-    "longitude": 120.243656,
-    "latitude": 22.926503
-  },
-  {
-    "visit": 5,
-    "longitude": 120.22554715615,
-    "latitude": 22.934710000308
-  },
-  {
-    "visit": 23,
-    "longitude": 120.22841,
-    "latitude": 22.98018
-  },
-  {
-    "visit": 6,
-    "longitude": 120.20828191015,
-    "latitude": 23.000280946257
-  },
-  {
-    "visit": 1,
-    "longitude": 120.20813,
-    "latitude": 23.0002299
-  },
-  {
-    "visit": 10,
-    "longitude": 120.20750741617,
-    "latitude": 22.984047594813
-  },
-  {
-    "visit": 77,
-    "longitude": 120.20801737834,
-    "latitude": 22.987952712977
-  },
-  {
-    "visit": 1,
-    "longitude": 120.23090398336,
-    "latitude": 23.082722585221
-  },
-  {
-    "visit": 7,
-    "longitude": 120.3077,
-    "latitude": 23.0345
-  },
-  {
-    "visit": 4,
-    "longitude": 120.22122417549,
-    "latitude": 22.973993912762
-  },
-  {
-    "visit": 3,
-    "longitude": 120.22092777778,
-    "latitude": 22.973822222222
-  },
-  {
-    "visit": 7,
-    "longitude": 120.2217,
-    "latitude": 22.97604
-  },
-  {
-    "visit": 9,
-    "longitude": 120.22145724028,
-    "latitude": 22.975077761533
-  },
-  {
-    "visit": 128,
-    "longitude": 120.22245524085,
-    "latitude": 22.97311027656
-  },
-  {
-    "visit": 10,
-    "longitude": 120.24806508478,
-    "latitude": 23.183110966778
-  },
-  {
-    "visit": 23,
-    "longitude": 120.24887363544,
-    "latitude": 23.190200644471
-  },
-  {
-    "visit": 1,
-    "longitude": 120.48197906667,
-    "latitude": 22.888082504272
-  },
-  {
-    "visit": 4,
-    "longitude": 120.48392960005,
-    "latitude": 22.88294067157
-  },
-  {
-    "visit": 10,
-    "longitude": 120.25188,
-    "latitude": 23.02915
-  },
-  {
-    "visit": 23,
-    "longitude": 120.25358891503,
-    "latitude": 23.038462654754
-  },
-  {
-    "visit": 8,
-    "longitude": 120.25565253776,
-    "latitude": 23.025947282067
-  },
-  {
-    "visit": 38,
-    "longitude": 120.22271818023,
-    "latitude": 22.974340467603
-  },
-  {
-    "visit": 18,
-    "longitude": 120.19876017363,
-    "latitude": 22.986752747775
-  },
-  {
-    "visit": 17,
-    "longitude": 120.2386531499,
-    "latitude": 22.982431252393
-  },
-  {
-    "visit": 8,
-    "longitude": 120.22511905,
-    "latitude": 22.998710197147
-  },
-  {
-    "visit": 42,
-    "longitude": 120.21543509477,
-    "latitude": 23.040711711082
-  },
-  {
-    "visit": 10,
-    "longitude": 120.21793,
-    "latitude": 22.9917
-  },
-  {
-    "visit": 11,
-    "longitude": 120.25335,
-    "latitude": 23.02252
-  },
-  {
-    "visit": 3,
-    "longitude": 120.294932,
-    "latitude": 23.1309857
-  },
-  {
-    "visit": 1,
-    "longitude": 120.30115,
-    "latitude": 23.13081
-  },
-  {
-    "visit": 2,
-    "longitude": 120.2957203204,
-    "latitude": 23.131418048635
-  },
-  {
-    "visit": 48,
-    "longitude": 120.28927963022,
-    "latitude": 23.13676743634
-  },
-  {
-    "visit": 2,
-    "longitude": 120.21432935342,
-    "latitude": 22.99653715876
-  },
-  {
-    "visit": 23,
-    "longitude": 120.2826813912,
-    "latitude": 23.098488558213
-  },
-  {
-    "visit": 1,
-    "longitude": 120.23667635759,
-    "latitude": 23.00903285162
-  },
-  {
-    "visit": 8,
-    "longitude": 120.2331082478,
-    "latitude": 22.990812924633
-  },
-  {
-    "visit": 41,
-    "longitude": 120.23286110897,
-    "latitude": 22.990083919179
-  },
-  {
-    "visit": 6,
-    "longitude": 120.240435,
-    "latitude": 22.997231
-  },
-  {
-    "visit": 3,
-    "longitude": 120.19637416831,
-    "latitude": 22.997658165585
-  },
-  {
-    "visit": 25,
-    "longitude": 120.19702,
-    "latitude": 22.99833
-  },
-  {
-    "visit": 13,
-    "longitude": 120.18712944447,
-    "latitude": 22.997735053692
-  },
-  {
-    "visit": 190,
-    "longitude": 120.22190494667,
-    "latitude": 23.020507384629
-  },
-  {
-    "visit": 29,
-    "longitude": 120.22170290993,
-    "latitude": 23.020359741622
-  },
-  {
-    "visit": 95,
-    "longitude": 120.22749,
-    "latitude": 23.01801
+    "longitude": 120.20710683167,
+    "latitude": 22.979134611758,
+    "name": "上鶴茶坊"
   },
   {
     "visit": 1,
     "longitude": 120.26107,
-    "latitude": 23.01991
-  },
-  {
-    "visit": 15,
-    "longitude": 120.20962796203,
-    "latitude": 22.994846496922
-  },
-  {
-    "visit": 2,
-    "longitude": 120.21253823351,
-    "latitude": 22.99895734514
-  },
-  {
-    "visit": 39,
-    "longitude": 120.19595,
-    "latitude": 22.9952
-  },
-  {
-    "visit": 32,
-    "longitude": 120.20281111111,
-    "latitude": 22.9975
-  },
-  {
-    "visit": 44,
-    "longitude": 120.20722222222,
-    "latitude": 22.983888888889
-  },
-  {
-    "visit": 28,
-    "longitude": 120.21666666667,
-    "latitude": 23
-  },
-  {
-    "visit": 39,
-    "longitude": 120.22155555556,
-    "latitude": 22.974833333333
-  },
-  {
-    "visit": 49,
-    "longitude": 120.21638888889,
-    "latitude": 22.994166666667
-  },
-  {
-    "visit": 14,
-    "longitude": 120.20270271355,
-    "latitude": 22.991666504651
+    "latitude": 23.01991,
+    "name": "大成釣蝦"
   },
   {
     "visit": 1,
     "longitude": 120.20519782594,
-    "latitude": 22.99010517545
+    "latitude": 22.99010517545,
+    "name": "孔廟老街"
   },
   {
-    "visit": 12,
-    "longitude": 120.21058,
-    "latitude": 22.99356
-  },
-  {
-    "visit": 10,
-    "longitude": 120.2094579,
-    "latitude": 22.9956648
-  },
-  {
-    "visit": 10,
-    "longitude": 120.08797711639,
-    "latitude": 23.211039753914
-  },
-  {
-    "visit": 125,
-    "longitude": 120.1876511,
-    "latitude": 22.9890909
-  },
-  {
-    "visit": 13,
-    "longitude": 120.18730048133,
-    "latitude": 22.990860843203
-  },
-  {
-    "visit": 381,
-    "longitude": 120.19721899186,
-    "latitude": 22.986983811672
-  },
-  {
-    "visit": 103,
-    "longitude": 120.200817,
-    "latitude": 22.981624
-  },
-  {
-    "visit": 56,
-    "longitude": 120.23293733967,
-    "latitude": 22.99103966379
-  },
-  {
-    "visit": 7,
-    "longitude": 120.23401475527,
-    "latitude": 22.99588294623
+    "visit": 1,
+    "longitude": 120.1750225698,
+    "latitude": 22.988219089422,
+    "name": "東東宴會式場"
   },
   {
     "visit": 1,
     "longitude": 120.22130284575,
-    "latitude": 22.979366799069
-  },
-  {
-    "visit": 13,
-    "longitude": 120.2217902,
-    "latitude": 22.9799581
-  },
-  {
-    "visit": 13,
-    "longitude": 120.22068,
-    "latitude": 22.97383
-  },
-  {
-    "visit": 34,
-    "longitude": 120.22082,
-    "latitude": 22.97444
-  },
-  {
-    "visit": 8,
-    "longitude": 120.2217,
-    "latitude": 22.99586
-  },
-  {
-    "visit": 10,
-    "longitude": 120.1976860957,
-    "latitude": 22.993864149254
-  },
-  {
-    "visit": 23,
-    "longitude": 120.20041416376,
-    "latitude": 22.994201004548
-  },
-  {
-    "visit": 30,
-    "longitude": 120.20618754185,
-    "latitude": 22.995549850652
-  },
-  {
-    "visit": 18,
-    "longitude": 120.21026,
-    "latitude": 22.98958
-  },
-  {
-    "visit": 25,
-    "longitude": 120.21433034923,
-    "latitude": 22.996634510367
-  },
-  {
-    "visit": 98,
-    "longitude": 120.21941518344,
-    "latitude": 23.002217206316
-  },
-  {
-    "visit": 12,
-    "longitude": 120.22115,
-    "latitude": 22.99579
-  },
-  {
-    "visit": 23,
-    "longitude": 120.21814627428,
-    "latitude": 22.994897958529
-  },
-  {
-    "visit": 24,
-    "longitude": 120.16354365875,
-    "latitude": 22.990438462529
-  },
-  {
-    "visit": 10,
-    "longitude": 120.15774199652,
-    "latitude": 22.994065245015
-  },
-  {
-    "visit": 1,
-    "longitude": 120.16803,
-    "latitude": 22.99461
-  },
-  {
-    "visit": 87,
-    "longitude": 120.16080528271,
-    "latitude": 23.001228038111
-  },
-  {
-    "visit": 2,
-    "longitude": 120.18199422583,
-    "latitude": 22.992884723416
-  },
-  {
-    "visit": 1,
-    "longitude": 120.18570852685,
-    "latitude": 22.998042744245
-  },
-  {
-    "visit": 56,
-    "longitude": 120.18091,
-    "latitude": 22.9895299
-  },
-  {
-    "visit": 21,
-    "longitude": 120.18737,
-    "latitude": 22.99277
-  },
-  {
-    "visit": 19,
-    "longitude": 120.18835036767,
-    "latitude": 22.992543174726
-  },
-  {
-    "visit": 1,
-    "longitude": 120.18925633512,
-    "latitude": 22.989678207079
-  },
-  {
-    "visit": 20,
-    "longitude": 120.19874883982,
-    "latitude": 22.98597122174
-  },
-  {
-    "visit": 1,
-    "longitude": 120.17174833708,
-    "latitude": 23.163830095139
-  },
-  {
-    "visit": 11,
-    "longitude": 120.2625961,
-    "latitude": 23.1894474
-  },
-  {
-    "visit": 25,
-    "longitude": 120.22115555556,
-    "latitude": 22.991069444444
-  },
-  {
-    "visit": 7,
-    "longitude": 120.22538,
-    "latitude": 22.97132
-  },
-  {
-    "visit": 16,
-    "longitude": 120.161134,
-    "latitude": 23.003993
-  },
-  {
-    "visit": 10,
-    "longitude": 120.1596677562,
-    "latitude": 23.003335876822
-  },
-  {
-    "visit": 13,
-    "longitude": 120.21069594405,
-    "latitude": 23.001824288535
-  },
-  {
-    "visit": 4,
-    "longitude": 120.20473,
-    "latitude": 23.00243
-  },
-  {
-    "visit": 11,
-    "longitude": 120.20195563603,
-    "latitude": 23.002995059302
-  },
-  {
-    "visit": 27,
-    "longitude": 120.20326201989,
-    "latitude": 23.004747392033
-  },
-  {
-    "visit": 1,
-    "longitude": 120.19794,
-    "latitude": 22.98834
-  },
-  {
-    "visit": 19,
-    "longitude": 120.1948633,
-    "latitude": 22.9892868
-  },
-  {
-    "visit": 1,
-    "longitude": 120.1474464754,
-    "latitude": 22.997215896129
-  },
-  {
-    "visit": 2,
-    "longitude": 120.151474,
-    "latitude": 22.9931731
-  },
-  {
-    "visit": 5,
-    "longitude": 120.16294,
-    "latitude": 23.00068
-  },
-  {
-    "visit": 82,
-    "longitude": 120.20677690043,
-    "latitude": 22.985030044598
-  },
-  {
-    "visit": 49,
-    "longitude": 120.2008133,
-    "latitude": 22.9818993
-  },
-  {
-    "visit": 125,
-    "longitude": 120.21837771527,
-    "latitude": 22.981626854754
-  },
-  {
-    "visit": 47,
-    "longitude": 120.1936512,
-    "latitude": 23.0161435
-  },
-  {
-    "visit": 330,
-    "longitude": 120.19343913971,
-    "latitude": 23.010363926672
-  },
-  {
-    "visit": 5,
-    "longitude": 120.1938015,
-    "latitude": 23.0099397
-  },
-  {
-    "visit": 62,
-    "longitude": 120.18707872014,
-    "latitude": 22.982340517677
-  },
-  {
-    "visit": 23,
-    "longitude": 120.19508,
-    "latitude": 22.98783
-  },
-  {
-    "visit": 25,
-    "longitude": 120.20207,
-    "latitude": 22.99674
-  },
-  {
-    "visit": 1,
-    "longitude": 120.20136,
-    "latitude": 22.99737
-  },
-  {
-    "visit": 14,
-    "longitude": 120.2419,
-    "latitude": 22.9868099
-  },
-  {
-    "visit": 2,
-    "longitude": 120.17913393594,
-    "latitude": 22.997524545472
-  },
-  {
-    "visit": 3,
-    "longitude": 120.19780200611,
-    "latitude": 22.988245991803
-  },
-  {
-    "visit": 11,
-    "longitude": 120.20434058143,
-    "latitude": 22.989832028403
-  },
-  {
-    "visit": 6,
-    "longitude": 120.21445207916,
-    "latitude": 22.996932071012
-  },
-  {
-    "visit": 7,
-    "longitude": 120.19821037581,
-    "latitude": 22.98739150113
-  },
-  {
-    "visit": 29,
-    "longitude": 120.19890261424,
-    "latitude": 22.997467676134
-  },
-  {
-    "visit": 8,
-    "longitude": 120.20927,
-    "latitude": 22.9957
-  },
-  {
-    "visit": 2,
-    "longitude": 120.23068,
-    "latitude": 22.99057
-  },
-  {
-    "visit": 18,
-    "longitude": 120.22966,
-    "latitude": 22.99005
-  },
-  {
-    "visit": 20,
-    "longitude": 120.20204,
-    "latitude": 22.99692
-  },
-  {
-    "visit": 42,
-    "longitude": 120.243656,
-    "latitude": 22.926503
-  },
-  {
-    "visit": 5,
-    "longitude": 120.22554715615,
-    "latitude": 22.934710000308
-  },
-  {
-    "visit": 23,
-    "longitude": 120.22841,
-    "latitude": 22.98018
-  },
-  {
-    "visit": 6,
-    "longitude": 120.20828191015,
-    "latitude": 23.000280946257
-  },
-  {
-    "visit": 1,
-    "longitude": 120.20813,
-    "latitude": 23.0002299
-  },
-  {
-    "visit": 10,
-    "longitude": 120.20750741617,
-    "latitude": 22.984047594813
-  },
-  {
-    "visit": 77,
-    "longitude": 120.20801737834,
-    "latitude": 22.987952712977
-  },
-  {
-    "visit": 1,
-    "longitude": 120.23090398336,
-    "latitude": 23.082722585221
-  },
-  {
-    "visit": 7,
-    "longitude": 120.3077,
-    "latitude": 23.0345
-  },
-  {
-    "visit": 4,
-    "longitude": 120.22122417549,
-    "latitude": 22.973993912762
-  },
-  {
-    "visit": 3,
-    "longitude": 120.22092777778,
-    "latitude": 22.973822222222
-  },
-  {
-    "visit": 7,
-    "longitude": 120.2217,
-    "latitude": 22.97604
-  },
-  {
-    "visit": 9,
-    "longitude": 120.22145724028,
-    "latitude": 22.975077761533
-  },
-  {
-    "visit": 128,
-    "longitude": 120.22245524085,
-    "latitude": 22.97311027656
-  },
-  {
-    "visit": 10,
-    "longitude": 120.24806508478,
-    "latitude": 23.183110966778
-  },
-  {
-    "visit": 23,
-    "longitude": 120.24887363544,
-    "latitude": 23.190200644471
-  },
-  {
-    "visit": 1,
-    "longitude": 120.48197906667,
-    "latitude": 22.888082504272
-  },
-  {
-    "visit": 4,
-    "longitude": 120.48392960005,
-    "latitude": 22.88294067157
-  },
-  {
-    "visit": 10,
-    "longitude": 120.25188,
-    "latitude": 23.02915
-  },
-  {
-    "visit": 23,
-    "longitude": 120.25358891503,
-    "latitude": 23.038462654754
-  },
-  {
-    "visit": 8,
-    "longitude": 120.25565253776,
-    "latitude": 23.025947282067
-  },
-  {
-    "visit": 38,
-    "longitude": 120.22271818023,
-    "latitude": 22.974340467603
-  },
-  {
-    "visit": 18,
-    "longitude": 120.19876017363,
-    "latitude": 22.986752747775
-  },
-  {
-    "visit": 17,
-    "longitude": 120.2386531499,
-    "latitude": 22.982431252393
-  },
-  {
-    "visit": 8,
-    "longitude": 120.22511905,
-    "latitude": 22.998710197147
-  },
-  {
-    "visit": 42,
-    "longitude": 120.21543509477,
-    "latitude": 23.040711711082
-  },
-  {
-    "visit": 10,
-    "longitude": 120.21793,
-    "latitude": 22.9917
-  },
-  {
-    "visit": 11,
-    "longitude": 120.25335,
-    "latitude": 23.02252
-  },
-  {
-    "visit": 3,
-    "longitude": 120.294932,
-    "latitude": 23.1309857
-  },
-  {
-    "visit": 1,
-    "longitude": 120.30115,
-    "latitude": 23.13081
-  },
-  {
-    "visit": 2,
-    "longitude": 120.2957203204,
-    "latitude": 23.131418048635
-  },
-  {
-    "visit": 48,
-    "longitude": 120.28927963022,
-    "latitude": 23.13676743634
-  },
-  {
-    "visit": 2,
-    "longitude": 120.21432935342,
-    "latitude": 22.99653715876
-  },
-  {
-    "visit": 23,
-    "longitude": 120.2826813912,
-    "latitude": 23.098488558213
+    "latitude": 22.979366799069,
+    "name": "天主教德光中學"
   },
   {
     "visit": 1,
     "longitude": 120.23667635759,
-    "latitude": 23.00903285162
-  },
-  {
-    "visit": 8,
-    "longitude": 120.2331082478,
-    "latitude": 22.990812924633
-  },
-  {
-    "visit": 41,
-    "longitude": 120.23286110897,
-    "latitude": 22.990083919179
-  },
-  {
-    "visit": 6,
-    "longitude": 120.240435,
-    "latitude": 22.997231
-  },
-  {
-    "visit": 3,
-    "longitude": 120.19637416831,
-    "latitude": 22.997658165585
-  },
-  {
-    "visit": 25,
-    "longitude": 120.19702,
-    "latitude": 22.99833
-  },
-  {
-    "visit": 13,
-    "longitude": 120.18712944447,
-    "latitude": 22.997735053692
-  },
-  {
-    "visit": 190,
-    "longitude": 120.22190494667,
-    "latitude": 23.020507384629
-  },
-  {
-    "visit": 29,
-    "longitude": 120.22170290993,
-    "latitude": 23.020359741622
-  },
-  {
-    "visit": 95,
-    "longitude": 120.22749,
-    "latitude": 23.01801
+    "latitude": 23.00903285162,
+    "name": "五王國民小學"
   },
   {
     "visit": 1,
-    "longitude": 120.26107,
-    "latitude": 23.01991
+    "longitude": 120.21573445008,
+    "latitude": 23.001581822725,
+    "name": "MSGT成功大學綠色魔法學校"
   },
   {
-    "visit": 15,
-    "longitude": 120.20962796203,
-    "latitude": 22.994846496922
+    "visit": 1,
+    "longitude": 120.20459586403,
+    "latitude": 22.993588351473,
+    "name": "台南市日治時代居酒屋-鶯料理"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.30115,
+    "latitude": 23.13081,
+    "name": "老胡記"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.1611151,
+    "latitude": 23.000049,
+    "name": "安平天后宮"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.20813,
+    "latitude": 23.0002299,
+    "name": "Red Wolf Taven LIVe Music PUB"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.23090398336,
+    "latitude": 23.082722585221,
+    "name": "中山高速公路國道8號-台南支線"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.18627,
+    "latitude": 22.99187,
+    "name": "台南市社會福利綜合大樓"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.18570852685,
+    "latitude": 22.998042744245,
+    "name": "台南市安平區運河"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.21331,
+    "latitude": 22.9945099,
+    "name": "府城騷烤家"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.18925633512,
+    "latitude": 22.989678207079,
+    "name": "神田日本料理"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.22082,
+    "latitude": 22.97444,
+    "name": "長榮桂冠2樓吃遍天下"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.17174833708,
+    "latitude": 23.163830095139,
+    "name": "佳里國小"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.08330892488,
+    "latitude": 23.218290256758,
+    "name": "馬沙溝海水浴場 Masago Beach"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.20136,
+    "latitude": 22.99737,
+    "name": "民族路石精臼牛肉湯"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.48197906667,
+    "latitude": 22.888082504272,
+    "name": "旗山技仔冰城總店"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.16623,
+    "latitude": 22.99962,
+    "name": "石門國小"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.19794,
+    "latitude": 22.98834,
+    "name": "partyworld ktv ● 錢櫃台南西門店"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.22189504437,
+    "latitude": 22.978460854064,
+    "name": "定食8崇學店"
+  },
+  {
+    "visit": 1,
+    "longitude": 120.1474464754,
+    "latitude": 22.997215896129,
+    "name": "海之味海產餐廳 - 旗艦店"
+  },
+  {
+    "visit": 2,
+    "longitude": 120.22101,
+    "latitude": 22.9951,
+    "name": "Noah's ark 諾亞方舟主廚餐廳"
+  },
+  {
+    "visit": 2,
+    "longitude": 120.22317,
+    "latitude": 22.98084,
+    "name": "準媽媽婦嬰用品專賣店(直營系統)"
+  },
+  {
+    "visit": 2,
+    "longitude": 120.23068,
+    "latitude": 22.99057,
+    "name": "東光國小"
+  },
+  {
+    "visit": 2,
+    "longitude": 120.21432935342,
+    "latitude": 22.99653715876,
+    "name": "香格里拉飯店38樓醉月樓"
+  },
+  {
+    "visit": 2,
+    "longitude": 120.17913393594,
+    "latitude": 22.997524545472,
+    "name": "南山人壽台南分公司"
+  },
+  {
+    "visit": 2,
+    "longitude": 120.21456,
+    "latitude": 22.99382,
+    "name": "AJ Burger美式餐廳"
+  },
+  {
+    "visit": 2,
+    "longitude": 120.2957203204,
+    "latitude": 23.131418048635,
+    "name": "善化天佳KTV釣蝦場"
+  },
+  {
+    "visit": 2,
+    "longitude": 120.25178685648,
+    "latitude": 23.029001937785,
+    "name": "聯盈發港式飲茶"
+  },
+  {
+    "visit": 2,
+    "longitude": 120.18199422583,
+    "latitude": 22.992884723416,
+    "name": "上原日本料理"
+  },
+  {
+    "visit": 2,
+    "longitude": 120.22571941866,
+    "latitude": 23.006471724229,
+    "name": "南園街鍋貼"
+  },
+  {
+    "visit": 2,
+    "longitude": 120.18773261116,
+    "latitude": 23.007500481868,
+    "name": "天成複合式主題館"
   },
   {
     "visit": 2,
     "longitude": 120.21253823351,
-    "latitude": 22.99895734514
+    "latitude": 22.99895734514,
+    "name": "統聯客運 北門站"
   },
   {
-    "visit": 39,
-    "longitude": 120.19595,
-    "latitude": 22.9952
+    "visit": 2,
+    "longitude": 120.25086971588,
+    "latitude": 23.03161715053,
+    "name": "台南永康歐洲世界"
   },
   {
-    "visit": 32,
-    "longitude": 120.20281111111,
-    "latitude": 22.9975
+    "visit": 2,
+    "longitude": 120.20887197922,
+    "latitude": 22.996604862795,
+    "name": "行政院衛生署台南醫院"
   },
   {
-    "visit": 44,
-    "longitude": 120.20722222222,
-    "latitude": 22.983888888889
+    "visit": 2,
+    "longitude": 120.151474,
+    "latitude": 22.9931731,
+    "name": "國立臺南高級海事水產職業學校"
+  },
+  {
+    "visit": 2,
+    "longitude": 120.21200062511,
+    "latitude": 22.99715067333,
+    "name": "臺南火車站"
+  },
+  {
+    "visit": 2,
+    "longitude": 120.18758909,
+    "latitude": 22.991338212222,
+    "name": "國立台南生活美學館(演藝廳)"
+  },
+  {
+    "visit": 3,
+    "longitude": 120.19780200611,
+    "latitude": 22.988245991803,
+    "name": "台南西門錢櫃KTV"
+  },
+  {
+    "visit": 3,
+    "longitude": 120.22057687337,
+    "latitude": 22.9922225016,
+    "name": "韓朝 東寧店"
+  },
+  {
+    "visit": 3,
+    "longitude": 120.19637416831,
+    "latitude": 22.997658165585,
+    "name": "神農街"
+  },
+  {
+    "visit": 3,
+    "longitude": 120.22092777778,
+    "latitude": 22.973822222222,
+    "name": "德安百貨台南店"
+  },
+  {
+    "visit": 3,
+    "longitude": 120.20127,
+    "latitude": 23.00955,
+    "name": "席瑪朵珈琲烘焙棧 Cermado cafe"
+  },
+  {
+    "visit": 3,
+    "longitude": 120.294932,
+    "latitude": 23.1309857,
+    "name": "小桔子善化店"
+  },
+  {
+    "visit": 3,
+    "longitude": 120.223688,
+    "latitude": 22.980319,
+    "name": "薄多義bit2eat義大利麵pizza台南崇學"
+  },
+  {
+    "visit": 4,
+    "longitude": 120.18938,
+    "latitude": 22.9973,
+    "name": "新臨安橋-台南彩虹橋"
+  },
+  {
+    "visit": 4,
+    "longitude": 120.22122417549,
+    "latitude": 22.973993912762,
+    "name": "健身工廠（德安廠）"
+  },
+  {
+    "visit": 4,
+    "longitude": 120.19763413239,
+    "latitude": 22.993611368859,
+    "name": "Chiuanhouse"
+  },
+  {
+    "visit": 4,
+    "longitude": 120.252,
+    "latitude": 23.1888,
+    "name": "蘋果森林餐廳"
+  },
+  {
+    "visit": 4,
+    "longitude": 120.48392960005,
+    "latitude": 22.88294067157,
+    "name": "旗山"
+  },
+  {
+    "visit": 4,
+    "longitude": 120.20473,
+    "latitude": 23.00243,
+    "name": "大歡喜"
+  },
+  {
+    "visit": 4,
+    "longitude": 120.20767115689,
+    "latitude": 22.98325435023,
+    "name": "台南大學操場"
+  },
+  {
+    "visit": 4,
+    "longitude": 120.22693805104,
+    "latitude": 23.002116403526,
+    "name": "永林牛肉火鍋 台灣台南美食綜合料理 Tainan, Taiwan Local Delicious food: Yonlin Restaurant"
+  },
+  {
+    "visit": 4,
+    "longitude": 120.23709244251,
+    "latitude": 23.041052155021,
+    "name": "鹽行"
+  },
+  {
+    "visit": 5,
+    "longitude": 120.1879653,
+    "latitude": 23.0077551,
+    "name": "天成複合式釣蝦埸"
+  },
+  {
+    "visit": 5,
+    "longitude": 120.19255,
+    "latitude": 22.99477,
+    "name": "台南逐鹿炭火燒肉"
+  },
+  {
+    "visit": 5,
+    "longitude": 120.210877855,
+    "latitude": 22.99504133,
+    "name": "D.D BEAR"
+  },
+  {
+    "visit": 5,
+    "longitude": 120.1938015,
+    "latitude": 23.0099397,
+    "name": "好事多COSTCO"
+  },
+  {
+    "visit": 5,
+    "longitude": 120.20710319062,
+    "latitude": 23.018908383671,
+    "name": "湯村足體養生會館"
+  },
+  {
+    "visit": 5,
+    "longitude": 120.22109105269,
+    "latitude": 22.982336017913,
+    "name": "銀座日式料理"
+  },
+  {
+    "visit": 5,
+    "longitude": 120.16294,
+    "latitude": 23.00068,
+    "name": "永泰興蜜餞行"
+  },
+  {
+    "visit": 5,
+    "longitude": 120.48119425994,
+    "latitude": 22.8877135449,
+    "name": "旗山體育場"
+  },
+  {
+    "visit": 5,
+    "longitude": 120.224,
+    "latitude": 22.98093,
+    "name": "Oilily Cafe"
+  },
+  {
+    "visit": 5,
+    "longitude": 120.22554715615,
+    "latitude": 22.934710000308,
+    "name": "台南白宮～奇美博物館"
+  },
+  {
+    "visit": 6,
+    "longitude": 120.20828191015,
+    "latitude": 23.000280946257,
+    "name": "紅狼美式酒吧"
+  },
+  {
+    "visit": 6,
+    "longitude": 120.22342,
+    "latitude": 22.9935,
+    "name": "開普三號店 CAPE CAFE 3"
+  },
+  {
+    "visit": 6,
+    "longitude": 120.240435,
+    "latitude": 22.997231,
+    "name": "永康復興彩虹眷村"
+  },
+  {
+    "visit": 6,
+    "longitude": 120.2100688535,
+    "latitude": 22.995789099976,
+    "name": "Focus時尚流行館"
+  },
+  {
+    "visit": 6,
+    "longitude": 120.20244094845,
+    "latitude": 22.997256618115,
+    "name": "台南市一級古蹟赤崁樓"
+  },
+  {
+    "visit": 6,
+    "longitude": 120.25833909,
+    "latitude": 23.03247518,
+    "name": "永康 龍潭"
+  },
+  {
+    "visit": 6,
+    "longitude": 120.21445207916,
+    "latitude": 22.996932071012,
+    "name": "古拉爵_台南遠百成功店"
+  },
+  {
+    "visit": 7,
+    "longitude": 120.19821037581,
+    "latitude": 22.98739150113,
+    "name": "台南新光三越新天地-新光影城"
+  },
+  {
+    "visit": 7,
+    "longitude": 120.22538,
+    "latitude": 22.97132,
+    "name": "崇明國小"
+  },
+  {
+    "visit": 7,
+    "longitude": 120.19841,
+    "latitude": 22.99398,
+    "name": "JJ-W Hotel"
+  },
+  {
+    "visit": 7,
+    "longitude": 120.2217,
+    "latitude": 22.97604,
+    "name": "三皇三家崇明店"
+  },
+  {
+    "visit": 7,
+    "longitude": 120.3077,
+    "latitude": 23.0345,
+    "name": "台南-新化老街"
+  },
+  {
+    "visit": 7,
+    "longitude": 120.23401475527,
+    "latitude": 22.99588294623,
+    "name": "World Gym 國賓店"
+  },
+  {
+    "visit": 8,
+    "longitude": 120.22355826271,
+    "latitude": 22.999363759867,
+    "name": "成大自強校區"
+  },
+  {
+    "visit": 8,
+    "longitude": 120.20543,
+    "latitude": 22.99391,
+    "name": "信燒烤"
+  },
+  {
+    "visit": 8,
+    "longitude": 120.25565253776,
+    "latitude": 23.025947282067,
+    "name": "永康國小"
+  },
+  {
+    "visit": 8,
+    "longitude": 120.2217,
+    "latitude": 22.99586,
+    "name": "Starbucks 長榮門市"
+  },
+  {
+    "visit": 8,
+    "longitude": 120.20517827393,
+    "latitude": 22.982567423057,
+    "name": "懷舊小棧 - 五妃廟口豆腐冰"
+  },
+  {
+    "visit": 8,
+    "longitude": 120.2331082478,
+    "latitude": 22.990812924633,
+    "name": "藍屋おいや和風御膳-南紡夢時代"
+  },
+  {
+    "visit": 8,
+    "longitude": 120.22511905,
+    "latitude": 22.998710197147,
+    "name": "澄花日式壽喜燒"
+  },
+  {
+    "visit": 8,
+    "longitude": 120.22650837005,
+    "latitude": 23.031447811711,
+    "name": "HONDA永康店"
+  },
+  {
+    "visit": 8,
+    "longitude": 120.20927,
+    "latitude": 22.9957,
+    "name": "South Park南方公園"
+  },
+  {
+    "visit": 8,
+    "longitude": 120.22833,
+    "latitude": 22.99349,
+    "name": "Domo Pann 多麼胖咖啡東興店"
+  },
+  {
+    "visit": 9,
+    "longitude": 120.221138,
+    "latitude": 22.9953194,
+    "name": "轉角餐廳 Corner Steak House"
+  },
+  {
+    "visit": 9,
+    "longitude": 120.22145724028,
+    "latitude": 22.975077761533,
+    "name": "台南市立文化中心演藝廳"
+  },
+  {
+    "visit": 9,
+    "longitude": 120.22107832478,
+    "latitude": 23.024788077567,
+    "name": "Golden Brother's Dormit0ry"
+  },
+  {
+    "visit": 10,
+    "longitude": 120.25188,
+    "latitude": 23.02915,
+    "name": "聯盈發點心專門店"
+  },
+  {
+    "visit": 10,
+    "longitude": 120.1976860957,
+    "latitude": 22.993864149254,
+    "name": "國華街淺草青春新天地"
+  },
+  {
+    "visit": 10,
+    "longitude": 120.1534450108,
+    "latitude": 23.000111199536,
+    "name": "台南四草濕地（台江國家公園）綠色隧道"
+  },
+  {
+    "visit": 10,
+    "longitude": 120.20750741617,
+    "latitude": 22.984047594813,
+    "name": "國立台南大學"
+  },
+  {
+    "visit": 10,
+    "longitude": 120.21526,
+    "latitude": 22.98879,
+    "name": "毛丼 丼飯專門店"
+  },
+  {
+    "visit": 10,
+    "longitude": 120.15774199652,
+    "latitude": 22.994065245015,
+    "name": "林默娘公園"
+  },
+  {
+    "visit": 10,
+    "longitude": 120.21313,
+    "latitude": 22.99242,
+    "name": "臺南知事官邸"
+  },
+  {
+    "visit": 10,
+    "longitude": 120.21793,
+    "latitude": 22.9917,
+    "name": "波哥茶飲(台南勝利店)"
+  },
+  {
+    "visit": 10,
+    "longitude": 120.24806508478,
+    "latitude": 23.183110966778,
+    "name": "台南巿麻豆區"
+  },
+  {
+    "visit": 10,
+    "longitude": 120.30165258872,
+    "latitude": 23.077691096642,
+    "name": "Dartwits Dormitory No.1 Guoji Road Shinsi District Tainan City Taiwan"
+  },
+  {
+    "visit": 10,
+    "longitude": 120.08797711639,
+    "latitude": 23.211039753914,
+    "name": "馬沙溝將軍魚港"
+  },
+  {
+    "visit": 10,
+    "longitude": 120.2094579,
+    "latitude": 22.9956648,
+    "name": "南方公園-森菓鯛魚燒霜淇淋"
+  },
+  {
+    "visit": 10,
+    "longitude": 120.1596677562,
+    "latitude": 23.003335876822,
+    "name": "安平樹屋"
+  },
+  {
+    "visit": 11,
+    "longitude": 120.25335,
+    "latitude": 23.02252,
+    "name": "國立台南大學附屬高級中學"
+  },
+  {
+    "visit": 11,
+    "longitude": 120.20434058143,
+    "latitude": 22.989832028403,
+    "name": "台南市孔廟文化園區"
+  },
+  {
+    "visit": 11,
+    "longitude": 120.2625961,
+    "latitude": 23.1894474,
+    "name": "國立曾文高級農工職業學校"
+  },
+  {
+    "visit": 11,
+    "longitude": 120.20195563603,
+    "latitude": 23.002995059302,
+    "name": "夏慕尼公園店"
+  },
+  {
+    "visit": 12,
+    "longitude": 120.22115,
+    "latitude": 22.99579,
+    "name": "庫肯花園"
+  },
+  {
+    "visit": 12,
+    "longitude": 120.21058,
+    "latitude": 22.99356,
+    "name": "深呼吸運動會館"
+  },
+  {
+    "visit": 13,
+    "longitude": 120.18730048133,
+    "latitude": 22.990860843203,
+    "name": "台南生活美學館"
+  },
+  {
+    "visit": 13,
+    "longitude": 120.18712944447,
+    "latitude": 22.997735053692,
+    "name": "星巴克 Starbucks 府中門市"
+  },
+  {
+    "visit": 13,
+    "longitude": 120.2217902,
+    "latitude": 22.9799581,
+    "name": "德光監獄大牢"
+  },
+  {
+    "visit": 13,
+    "longitude": 120.22068,
+    "latitude": 22.97383,
+    "name": "騎士堡愛麗絲的家"
+  },
+  {
+    "visit": 13,
+    "longitude": 120.21069594405,
+    "latitude": 23.001824288535,
+    "name": "台南公園"
+  },
+  {
+    "visit": 13,
+    "longitude": 120.18560977981,
+    "latitude": 22.998099378598,
+    "name": "樂禾田 早午餐.日夕食"
+  },
+  {
+    "visit": 14,
+    "longitude": 120.2041,
+    "latitude": 22.99374,
+    "name": "台南天壇－天公廟"
+  },
+  {
+    "visit": 14,
+    "longitude": 120.22123,
+    "latitude": 22.9956299,
+    "name": "KAFFE at HOME"
+  },
+  {
+    "visit": 14,
+    "longitude": 120.2419,
+    "latitude": 22.9868099,
+    "name": "忠味麵店"
+  },
+  {
+    "visit": 14,
+    "longitude": 120.20270271355,
+    "latitude": 22.991666504651,
+    "name": "台南市陶板屋忠義店"
+  },
+  {
+    "visit": 14,
+    "longitude": 120.1862869,
+    "latitude": 22.9779606,
+    "name": "是吉祥火鍋"
+  },
+  {
+    "visit": 15,
+    "longitude": 120.25168441453,
+    "latitude": 22.99871999678,
+    "name": "異人館咖啡部屋 崑山店"
+  },
+  {
+    "visit": 15,
+    "longitude": 120.20962796203,
+    "latitude": 22.994846496922,
+    "name": "Dazzling蜜糖吐司"
+  },
+  {
+    "visit": 16,
+    "longitude": 120.19768239964,
+    "latitude": 22.993561897255,
+    "name": "邱家傳統小吃小卷米粉"
+  },
+  {
+    "visit": 16,
+    "longitude": 120.20493,
+    "latitude": 22.98466,
+    "name": "I - Mita 愛米塔。早午餐。輕食。蜜塔。"
+  },
+  {
+    "visit": 16,
+    "longitude": 120.17265,
+    "latitude": 22.99114,
+    "name": "Daylight光合箱子"
+  },
+  {
+    "visit": 16,
+    "longitude": 120.161134,
+    "latitude": 23.003993,
+    "name": "臺南安平老街"
+  },
+  {
+    "visit": 17,
+    "longitude": 120.2386531499,
+    "latitude": 22.982431252393,
+    "name": "台南市復興國小"
+  },
+  {
+    "visit": 17,
+    "longitude": 120.22185559466,
+    "latitude": 22.989340099854,
+    "name": "私立長榮高級中學 Chang Jung Senior High School"
+  },
+  {
+    "visit": 18,
+    "longitude": 120.17548199013,
+    "latitude": 22.989375910681,
+    "name": "台南市安平區"
+  },
+  {
+    "visit": 18,
+    "longitude": 120.22966,
+    "latitude": 22.99005,
+    "name": "新都巷日本料理"
+  },
+  {
+    "visit": 18,
+    "longitude": 120.1971893,
+    "latitude": 22.9944401,
+    "name": "泰成水果店"
+  },
+  {
+    "visit": 18,
+    "longitude": 120.19876017363,
+    "latitude": 22.986752747775,
+    "name": "台南新光三越西門店花月嵐拉麵"
+  },
+  {
+    "visit": 18,
+    "longitude": 120.21026,
+    "latitude": 22.98958,
+    "name": "太陽牌冰品"
+  },
+  {
+    "visit": 19,
+    "longitude": 120.18835036767,
+    "latitude": 22.992543174726,
+    "name": "台南市移民署"
+  },
+  {
+    "visit": 19,
+    "longitude": 120.2160109703,
+    "latitude": 22.985807155289,
+    "name": "Kadoya喫茶店"
+  },
+  {
+    "visit": 19,
+    "longitude": 120.1948633,
+    "latitude": 22.9892868,
+    "name": "六千牛肉湯"
+  },
+  {
+    "visit": 20,
+    "longitude": 120.20204,
+    "latitude": 22.99692,
+    "name": "山根壽司"
+  },
+  {
+    "visit": 20,
+    "longitude": 120.19769,
+    "latitude": 22.99334,
+    "name": "江水號"
+  },
+  {
+    "visit": 20,
+    "longitude": 120.19874883982,
+    "latitude": 22.98597122174,
+    "name": "南英商工"
+  },
+  {
+    "visit": 21,
+    "longitude": 120.08332497859,
+    "latitude": 23.218327424711,
+    "name": "馬沙溝濱海遊憩區"
+  },
+  {
+    "visit": 21,
+    "longitude": 120.18737,
+    "latitude": 22.99277,
+    "name": "爭鮮迴轉壽司"
+  },
+  {
+    "visit": 22,
+    "longitude": 120.26010532843,
+    "latitude": 23.19016737779,
+    "name": "麻豆代天府之十八層地獄"
+  },
+  {
+    "visit": 22,
+    "longitude": 120.29100980486,
+    "latitude": 23.067827738028,
+    "name": "台南新市區"
+  },
+  {
+    "visit": 23,
+    "longitude": 120.24887363544,
+    "latitude": 23.190200644471,
+    "name": "麻豆監理站"
+  },
+  {
+    "visit": 23,
+    "longitude": 120.20556460294,
+    "latitude": 22.985204217647,
+    "name": "Tainan City,taiwan ROC"
+  },
+  {
+    "visit": 23,
+    "longitude": 120.21818488133,
+    "latitude": 23.002205663651,
+    "name": "台南成大醫院"
+  },
+  {
+    "visit": 23,
+    "longitude": 120.2826813912,
+    "latitude": 23.098488558213,
+    "name": "台南科學園區"
+  },
+  {
+    "visit": 23,
+    "longitude": 120.22841,
+    "latitude": 22.98018,
+    "name": "婦兒安婦幼中心"
+  },
+  {
+    "visit": 23,
+    "longitude": 120.19508,
+    "latitude": 22.98783,
+    "name": "東京益田日本料理"
+  },
+  {
+    "visit": 23,
+    "longitude": 120.20041416376,
+    "latitude": 22.994201004548,
+    "name": "冰鄉"
+  },
+  {
+    "visit": 23,
+    "longitude": 120.22328,
+    "latitude": 22.98706,
+    "name": "比薩茶坊"
+  },
+  {
+    "visit": 23,
+    "longitude": 120.21814627428,
+    "latitude": 22.994897958529,
+    "name": "勝利早點"
+  },
+  {
+    "visit": 23,
+    "longitude": 120.25358891503,
+    "latitude": 23.038462654754,
+    "name": "永康火車站 Yongkang Station"
+  },
+  {
+    "visit": 24,
+    "longitude": 120.16354365875,
+    "latitude": 22.990438462529,
+    "name": "億載國小"
+  },
+  {
+    "visit": 25,
+    "longitude": 120.22115555556,
+    "latitude": 22.991069444444,
+    "name": "臺南市私立長榮女子高級中學"
+  },
+  {
+    "visit": 25,
+    "longitude": 120.20207,
+    "latitude": 22.99674,
+    "name": "台南武廟"
+  },
+  {
+    "visit": 25,
+    "longitude": 120.19702,
+    "latitude": 22.99833,
+    "name": "阿江鱔魚"
+  },
+  {
+    "visit": 25,
+    "longitude": 120.21433034923,
+    "latitude": 22.996634510367,
+    "name": "台南遠東香格里拉10FBuffet"
+  },
+  {
+    "visit": 26,
+    "longitude": 120.17125893886,
+    "latitude": 22.990979544767,
+    "name": "星巴克-永華國平"
+  },
+  {
+    "visit": 27,
+    "longitude": 120.20326201989,
+    "latitude": 23.004747392033,
+    "name": "聚北海道昆布鍋 - 台南大潤發臨安店"
+  },
+  {
+    "visit": 28,
+    "longitude": 120.16729,
+    "latitude": 22.99894,
+    "name": "安平古堡"
   },
   {
     "visit": 28,
     "longitude": 120.21666666667,
-    "latitude": 23
+    "latitude": 23,
+    "name": "National Cheng Kung University"
+  },
+  {
+    "visit": 29,
+    "longitude": 120.2178192,
+    "latitude": 22.9795609,
+    "name": "維達都會生活俱樂部 La Vida Health Club"
+  },
+  {
+    "visit": 29,
+    "longitude": 120.22170290993,
+    "latitude": 23.020359741622,
+    "name": "奇美醫院急診室"
+  },
+  {
+    "visit": 29,
+    "longitude": 120.23124014952,
+    "latitude": 23.008689449674,
+    "name": "家樂福 台南中華店"
+  },
+  {
+    "visit": 29,
+    "longitude": 120.19890261424,
+    "latitude": 22.997467676134,
+    "name": "台南永樂市場"
+  },
+  {
+    "visit": 30,
+    "longitude": 120.23308607346,
+    "latitude": 22.990726758622,
+    "name": "南紡夢時代-華納影城"
+  },
+  {
+    "visit": 30,
+    "longitude": 120.20618754185,
+    "latitude": 22.995549850652,
+    "name": "台南大遠百-華納威秀"
+  },
+  {
+    "visit": 30,
+    "longitude": 120.21560359044,
+    "latitude": 22.997793962917,
+    "name": "NCKU光復校區 成功廳"
+  },
+  {
+    "visit": 31,
+    "longitude": 120.2336752,
+    "latitude": 22.9912468,
+    "name": "跳舞香水 南紡夢時代"
+  },
+  {
+    "visit": 32,
+    "longitude": 120.20281111111,
+    "latitude": 22.9975,
+    "name": "Fort Provintia"
+  },
+  {
+    "visit": 34,
+    "longitude": 120.22082,
+    "latitude": 22.97444,
+    "name": "台南長榮桂冠酒店"
+  },
+  {
+    "visit": 35,
+    "longitude": 120.19726951584,
+    "latitude": 22.994355840866,
+    "name": "蜷尾家 甘味处。。。散步甜食"
+  },
+  {
+    "visit": 35,
+    "longitude": 120.23315773008,
+    "latitude": 22.990033587109,
+    "name": "Momo Paradise 夢時代牧場"
+  },
+  {
+    "visit": 37,
+    "longitude": 120.20705,
+    "latitude": 22.99271,
+    "name": "OA Studio"
+  },
+  {
+    "visit": 38,
+    "longitude": 120.21083,
+    "latitude": 22.99715,
+    "name": "台南大飯店 Hotel Tainan"
+  },
+  {
+    "visit": 38,
+    "longitude": 120.22271818023,
+    "latitude": 22.974340467603,
+    "name": "235巷義大利麵 台南文化店"
+  },
+  {
+    "visit": 38,
+    "longitude": 120.24409461827,
+    "latitude": 22.989786633582,
+    "name": "Starbucks星巴克典藏門市-虎尾寮"
+  },
+  {
+    "visit": 39,
+    "longitude": 120.19595,
+    "latitude": 22.9952,
+    "name": "唐寅居"
   },
   {
     "visit": 39,
     "longitude": 120.22155555556,
-    "latitude": 22.974833333333
+    "latitude": 22.974833333333,
+    "name": "Tainan Municipal Cultural Center"
+  },
+  {
+    "visit": 41,
+    "longitude": 120.23286110897,
+    "latitude": 22.990083919179,
+    "name": "台南夢時代"
+  },
+  {
+    "visit": 42,
+    "longitude": 120.243656,
+    "latitude": 22.926503,
+    "name": "奇美博物館"
+  },
+  {
+    "visit": 42,
+    "longitude": 120.21543509477,
+    "latitude": 23.040711711082,
+    "name": "大安順ktv"
+  },
+  {
+    "visit": 44,
+    "longitude": 120.20722222222,
+    "latitude": 22.983888888889,
+    "name": "National University of Tainan"
+  },
+  {
+    "visit": 47,
+    "longitude": 120.1936512,
+    "latitude": 23.0161435,
+    "name": "極鮮火鍋文賢店"
+  },
+  {
+    "visit": 48,
+    "longitude": 120.28927963022,
+    "latitude": 23.13676743634,
+    "name": "善化多功能活動中心"
+  },
+  {
+    "visit": 49,
+    "longitude": 120.2008133,
+    "latitude": 22.9818993,
+    "name": "家齊女中"
   },
   {
     "visit": 49,
     "longitude": 120.21638888889,
-    "latitude": 22.994166666667
+    "latitude": 22.994166666667,
+    "name": "National Tainan First Senior High School"
+  },
+  {
+    "visit": 54,
+    "longitude": 120.20981575793,
+    "latitude": 22.995100521131,
+    "name": "新光三越 台南中山店"
+  },
+  {
+    "visit": 55,
+    "longitude": 120.18932,
+    "latitude": 22.99203,
+    "name": "多一點咖啡館-台南美學館-品牌特許授權店"
+  },
+  {
+    "visit": 56,
+    "longitude": 120.23293733967,
+    "latitude": 22.99103966379,
+    "name": "\"台南南紡\"夢時代購物中心"
+  },
+  {
+    "visit": 56,
+    "longitude": 120.18091,
+    "latitude": 22.9895299,
+    "name": "吾亦私永華店"
+  },
+  {
+    "visit": 56,
+    "longitude": 120.21306038132,
+    "latitude": 22.989398637653,
+    "name": "Tainan Sin Lau hospital"
+  },
+  {
+    "visit": 58,
+    "longitude": 120.21429077317,
+    "latitude": 22.996495579963,
+    "name": "Shangri-La Tainan 香格里拉台南遠東國際大飯店"
+  },
+  {
+    "visit": 62,
+    "longitude": 120.214758,
+    "latitude": 22.9937616,
+    "name": "黑工號 嫩仙草"
+  },
+  {
+    "visit": 62,
+    "longitude": 120.18707872014,
+    "latitude": 22.982340517677,
+    "name": "北京麻辣鴛鴦火鍋"
+  },
+  {
+    "visit": 73,
+    "longitude": 120.2192078,
+    "latitude": 23.0021992,
+    "name": "成大醫院"
+  },
+  {
+    "visit": 75,
+    "longitude": 120.24263749071,
+    "latitude": 23.043689602214,
+    "name": "桂田酒店－阿力海百匯自助餐廳"
+  },
+  {
+    "visit": 77,
+    "longitude": 120.20801737834,
+    "latitude": 22.987952712977,
+    "name": "延平郡王祠"
+  },
+  {
+    "visit": 81,
+    "longitude": 120.18658900007,
+    "latitude": 22.986884329,
+    "name": "輕井澤鍋物 台南店"
+  },
+  {
+    "visit": 82,
+    "longitude": 120.20677690043,
+    "latitude": 22.985030044598,
+    "name": "台南大學文薈樓"
+  },
+  {
+    "visit": 87,
+    "longitude": 120.16080528271,
+    "latitude": 23.001228038111,
+    "name": "台南市安平古堡&老街"
+  },
+  {
+    "visit": 95,
+    "longitude": 120.22749,
+    "latitude": 23.01801,
+    "name": "碳佐麻里_永康店"
+  },
+  {
+    "visit": 98,
+    "longitude": 120.21941518344,
+    "latitude": 23.002217206316,
+    "name": "成大醫院住院大樓"
+  },
+  {
+    "visit": 102,
+    "longitude": 120.19793,
+    "latitude": 22.98777,
+    "name": "Tayih Landis Hotel Tainan 台南大億麗緻酒店"
+  },
+  {
+    "visit": 103,
+    "longitude": 120.200817,
+    "latitude": 22.981624,
+    "name": "國立臺南家齊女子高級中學"
+  },
+  {
+    "visit": 107,
+    "longitude": 120.19935552132,
+    "latitude": 22.987762026228,
+    "name": "Silks Place Tainan 台南晶英酒店"
+  },
+  {
+    "visit": 125,
+    "longitude": 120.21837771527,
+    "latitude": 22.981626854754,
+    "name": "台南監理站"
+  },
+  {
+    "visit": 125,
+    "longitude": 120.1876511,
+    "latitude": 22.9890909,
+    "name": "Omaya春川炒雞台南永華店"
+  },
+  {
+    "visit": 128,
+    "longitude": 120.22245524085,
+    "latitude": 22.97311027656,
+    "name": "巴克禮紀念公園"
+  },
+  {
+    "visit": 180,
+    "longitude": 120.21722757835,
+    "latitude": 22.996498061546,
+    "name": "國立成功大學"
+  },
+  {
+    "visit": 181,
+    "longitude": 120.1680442,
+    "latitude": 22.9865629,
+    "name": "In STYLE hair studio"
+  },
+  {
+    "visit": 190,
+    "longitude": 120.22190494667,
+    "latitude": 23.020507384629,
+    "name": "永康奇美醫院"
+  },
+  {
+    "visit": 215,
+    "longitude": 120.19863961208,
+    "latitude": 22.987050210035,
+    "name": "新光三越 台南西門店"
+  },
+  {
+    "visit": 261,
+    "longitude": 120.23455,
+    "latitude": 23.03875,
+    "name": "Starbucks Coffee-台南drive Thru"
+  },
+  {
+    "visit": 301,
+    "longitude": 120.21758726512,
+    "latitude": 22.996685621924,
+    "name": "成功大學-中正堂"
+  },
+  {
+    "visit": 330,
+    "longitude": 120.19343913971,
+    "latitude": 23.010363926672,
+    "name": "Costco 台南店"
+  },
+  {
+    "visit": 381,
+    "longitude": 120.19721899186,
+    "latitude": 22.986983811672,
+    "name": "藍晒圖文創園區"
+  },
+  {
+    "visit": 566,
+    "longitude": 120.2020721,
+    "latitude": 23.0013294,
+    "name": "立人國小"
+  },
+  {
+    "visit": 717,
+    "longitude": 120.18701881914,
+    "latitude": 22.988361945739,
+    "name": "品田牧場-安平家樂福店"
+  },
+  {
+    "visit": 737,
+    "longitude": 120.2167637,
+    "latitude": 23.0074153,
+    "name": "開元國小"
   }
 ]

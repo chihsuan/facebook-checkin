@@ -11,8 +11,8 @@ data.forEach(function(d) {
   if (d.visit.length > 0) {
     d.visit = d.visit[d.visit.length-1];
     d.like = d.like[d.like.length-1];
-    d.visit.date = new Date(d.visit.date).toLocaleDateString();
-    d.like.date = new Date(d.like.date).toLocaleDateString();
+    d.visit.date = new Date(d.visit.date).toJSON().substring(0, 10);
+    d.like.date = new Date(d.like.date).toJSON().substring(0, 10);
   }
   else {
     d.visit = '';

@@ -38,7 +38,7 @@
       "地圖": googleStreet
     }).addTo(mymap);
     
-    d3.json('../fb_place.json', function(data) {
+    d3.json('../data/fb_place.json', function(data) {
       var count = 0;
       data.forEach(function(d) {
         if (d.location.latitude > 23.28 || d.location.latitude < 22.922)

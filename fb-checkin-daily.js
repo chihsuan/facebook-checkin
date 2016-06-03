@@ -3,19 +3,21 @@ var async = require("async");
 var fs = require('fs');
 var args = system.args;
 
-var date = new Date().toLocaleString();
+var date = new Date().toJSON().substring(0, 10);
 var DATA_INPUT = './data/fb_checkin_daily.json';
 var LOOK_UP = './lookups/checkin_lookup_daily_' + date + '.json';
-
 var data = require(DATA_INPUT);
 
 var lookup = {};
-if(fileExists(LOOK_UP)) {
+try {
   lookup = require(LOOK_UP);
 }
+catch(e) {
+}
+
 var places = require('./data/fb_checkin.json');
 var count = 0;
-var NUMVER_TO_WRITE = 5;
+var NUMBER_TO_WRITE = 5;
 var maxCount = 2000;
 
 //places = places.reverse();
@@ -31,6 +33,12 @@ var q = async.queue(function (p, done) {
     system.stdout.writeLine('PageUrl：' + pageUrl);
     system.stdout.writeLine('Your input：');
     pageUrl = system.stdin.readLine();
+    if (pageUrl.substr(-1) === '/') {
+      pageUrl += 'likes?ref=page_internal';
+    }
+    else {
+      pageUrl += '/likes?ref=page_internal';
+    }
   }
 
   var page = require('webpage').create();
@@ -49,16 +57,16 @@ var q = async.queue(function (p, done) {
       }
 
       page.includeJs("http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js", function() {
-        var d = page.evaluate(function() {
+        var d = page.evaluate(function(pageUrl) {
 
           var tr = $('._1zuq').text();
           var arr = tr.split('讚');
 
-          var page = {},
+          var pageData = {},
             like,
             visit;
 
-          if ((tr.indexOf('讚') || tr.indexOf('人次')) && arr && arr.length > 0) {
+          if (pageUrl.indexOf('page/') >= 0) {
             if (tr.indexOf('讚') >= 0) {
               like = arr[0].replace('個', '').replace(/[, ]/g, '');
               visit = arr[1].replace('人次造訪', '').replace(/[, ]/g, '');
@@ -73,17 +81,24 @@ var q = async.queue(function (p, done) {
             if (!arr || arr.length < 1) {
               return page;
             }*/
-            arr = ['', document.querySelectorAll('._52id')[1].innerHTML];
-            like = $('#PagesLikesCountDOMID').text().replace(',', '').replace(/[, ]/g, '');
-            visit = arr[1].replace(',', '').replace('人次造訪', '').replace(/[, ]/g, '');
+            if (document.querySelectorAll('._52id').length > 0) {
+              arr = ['', document.querySelectorAll('._52id')[1].innerHTML];
+              like = $('#PagesLikesCountDOMID').text().replace(',', '').replace(/[, ]/g, '');
+              visit = arr[1].replace(',', '').replace('人次造訪', '').replace(/[, ]/g, '');
+            }
+            else {
+              like = document.querySelectorAll('._50f7')[2].innerHTML.replace(/[, ]/g, '');
+              visit = document.querySelectorAll('._50f7')[1].innerHTML.replace(/[, ]/g, '');
+            }
           }
-          page = {
+
+          pageData = {
             like: parseInt(like),
             visit: parseInt(visit)
           };
 
-          return page;
-        });
+          return pageData;
+        }, pageUrl);
 
         if (!d || (!d.like && !d.visit)) {
           console.log('--->' + d);
@@ -117,15 +132,18 @@ var q = async.queue(function (p, done) {
         p.pageUrl = pageUrl;
         data.push(p);
         lookup[p.name] = true;
+        console.log('set lookup');
 
-        if (count % NUMVER_TO_WRITE === 0 || count >= max_count) {
+        if (count % NUMBER_TO_WRITE === 0 || count >= maxCount) {
+          console.log('write');
           fs.write(DATA_INPUT, JSON.stringify(data, null, 2), 'w');
           fs.write(LOOK_UP, JSON.stringify(lookup, null, 2), 'w');
         }
 
-        if (count >= max_count) {
+        if (count >= maxCount) {
           phantom.exit();
         }
+        console.log(count/parseFloat(maxCount), 'close');
         page.close();
         done();
       });
@@ -149,6 +167,7 @@ data.forEach(function(p) {
   input_number += 1;
 });
 maxCount = input_number;
+console.log(maxCount);
 
 function fileExists(filePath)
 {

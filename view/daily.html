@@ -39,7 +39,7 @@
       "地圖": googleStreet
     }).addTo(mymap);
 
-    d3.json('../simplify_checkin_daily.json', function(data) {
+    d3.json('../data/simplify_checkin_daily.json', function(data) {
       var latlng = [];
       data.forEach(function(d) {
         if (!d.visit)
