@@ -25,8 +25,12 @@ var maxCount = 2000;
 
 var q = async.queue(function (p, done) {
 
-  var pageUrl = 'https://www.facebook.com/pages/'+p.name+'/'+p.id;
-  //var pageUrl = p.pageUrl;
+  //var pageUrl = 'https://www.facebook.com/pages/'+p.name+'/'+p.id;
+  var pageUrl = p.pageUrl;
+
+  if (lookup[p.name] === true) {
+    done();
+  }
 
   // Manual input
   if (lookup.hasOwnProperty(p.name) && lookup[p.name] === false) {
@@ -66,7 +70,7 @@ var q = async.queue(function (p, done) {
             like,
             visit;
 
-          if (pageUrl.indexOf('page/') >= 0) {
+          if (pageUrl.indexOf('pages/') >= 0) {
             if (tr.indexOf('讚') >= 0) {
               like = arr[0].replace('個', '').replace(/[, ]/g, '');
               visit = arr[1].replace('人次造訪', '').replace(/[, ]/g, '');
