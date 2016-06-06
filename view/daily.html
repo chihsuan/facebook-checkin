@@ -51,12 +51,21 @@
         for (var i=0; i < visit; ++i) {
           latlng.push([d.latitude, d.longitude]);
         }
+      
+        var circle = L.circle([d.location.latitude, d.location.longitude], 10, {
+          color: 'blue',
+          fillColor: '#4AC3E7',
+          fillOpacity: 0.5
+        }).addTo(map);
+
       });
 
       var heat = L.heatLayer(latlng, {
         radius: 25,
         max: 2
       }).addTo(mymap);
+
+
       console.log(data.length);
     });
 

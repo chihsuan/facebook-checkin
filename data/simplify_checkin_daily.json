@@ -169,9 +169,9 @@
   },
   {
     "visit": 2,
-    "longitude": 120.23068,
-    "latitude": 22.99057,
-    "name": "東光國小"
+    "longitude": 120.21253823351,
+    "latitude": 22.99895734514,
+    "name": "統聯客運 北門站"
   },
   {
     "visit": 2,
@@ -223,9 +223,9 @@
   },
   {
     "visit": 2,
-    "longitude": 120.21253823351,
-    "latitude": 22.99895734514,
-    "name": "統聯客運 北門站"
+    "longitude": 120.23068,
+    "latitude": 22.99057,
+    "name": "東光國小"
   },
   {
     "visit": 2,
@@ -751,9 +751,9 @@
   },
   {
     "visit": 15,
-    "longitude": 120.25168441453,
-    "latitude": 22.99871999678,
-    "name": "異人館咖啡部屋 崑山店"
+    "longitude": 120.2661,
+    "latitude": 23.0133,
+    "name": "台南市永康區大灣"
   },
   {
     "visit": 15,
@@ -762,10 +762,10 @@
     "name": "Dazzling蜜糖吐司"
   },
   {
-    "visit": 16,
-    "longitude": 120.161134,
-    "latitude": 23.003993,
-    "name": "臺南安平老街"
+    "visit": 15,
+    "longitude": 120.25168441453,
+    "latitude": 22.99871999678,
+    "name": "異人館咖啡部屋 崑山店"
   },
   {
     "visit": 16,
@@ -775,9 +775,9 @@
   },
   {
     "visit": 16,
-    "longitude": 120.19768239964,
-    "latitude": 22.993561897255,
-    "name": "邱家傳統小吃小卷米粉"
+    "longitude": 120.161134,
+    "latitude": 23.003993,
+    "name": "臺南安平老街"
   },
   {
     "visit": 16,
@@ -786,10 +786,10 @@
     "name": "I - Mita 愛米塔。早午餐。輕食。蜜塔。"
   },
   {
-    "visit": 17,
-    "longitude": 120.22185559466,
-    "latitude": 22.989340099854,
-    "name": "私立長榮高級中學 Chang Jung Senior High School"
+    "visit": 16,
+    "longitude": 120.19768239964,
+    "latitude": 22.993561897255,
+    "name": "邱家傳統小吃小卷米粉"
   },
   {
     "visit": 17,
@@ -798,16 +798,10 @@
     "name": "台南市復興國小"
   },
   {
-    "visit": 18,
-    "longitude": 120.22966,
-    "latitude": 22.99005,
-    "name": "新都巷日本料理"
-  },
-  {
-    "visit": 18,
-    "longitude": 120.21026,
-    "latitude": 22.98958,
-    "name": "太陽牌冰品"
+    "visit": 17,
+    "longitude": 120.22185559466,
+    "latitude": 22.989340099854,
+    "name": "私立長榮高級中學 Chang Jung Senior High School"
   },
   {
     "visit": 18,
@@ -828,10 +822,22 @@
     "name": "台南新光三越西門店花月嵐拉麵"
   },
   {
+    "visit": 18,
+    "longitude": 120.22966,
+    "latitude": 22.99005,
+    "name": "新都巷日本料理"
+  },
+  {
+    "visit": 18,
+    "longitude": 120.21026,
+    "latitude": 22.98958,
+    "name": "太陽牌冰品"
+  },
+  {
     "visit": 19,
-    "longitude": 120.1948633,
-    "latitude": 22.9892868,
-    "name": "六千牛肉湯"
+    "longitude": 120.18835036767,
+    "latitude": 22.992543174726,
+    "name": "台南市移民署"
   },
   {
     "visit": 19,
@@ -841,15 +847,9 @@
   },
   {
     "visit": 19,
-    "longitude": 120.18835036767,
-    "latitude": 22.992543174726,
-    "name": "台南市移民署"
-  },
-  {
-    "visit": 20,
-    "longitude": 120.20204,
-    "latitude": 22.99692,
-    "name": "山根壽司"
+    "longitude": 120.1948633,
+    "latitude": 22.9892868,
+    "name": "六千牛肉湯"
   },
   {
     "visit": 20,
@@ -859,15 +859,15 @@
   },
   {
     "visit": 20,
+    "longitude": 120.20204,
+    "latitude": 22.99692,
+    "name": "山根壽司"
+  },
+  {
+    "visit": 20,
     "longitude": 120.19769,
     "latitude": 22.99334,
     "name": "江水號"
-  },
-  {
-    "visit": 21,
-    "longitude": 120.18737,
-    "latitude": 22.99277,
-    "name": "爭鮮迴轉壽司"
   },
   {
     "visit": 21,
@@ -876,16 +876,22 @@
     "name": "馬沙溝濱海遊憩區"
   },
   {
-    "visit": 22,
-    "longitude": 120.26010532843,
-    "latitude": 23.19016737779,
-    "name": "麻豆代天府之十八層地獄"
+    "visit": 21,
+    "longitude": 120.18737,
+    "latitude": 22.99277,
+    "name": "爭鮮迴轉壽司"
   },
   {
     "visit": 22,
     "longitude": 120.29100980486,
     "latitude": 23.067827738028,
     "name": "台南新市區"
+  },
+  {
+    "visit": 22,
+    "longitude": 120.26010532843,
+    "latitude": 23.19016737779,
+    "name": "麻豆代天府之十八層地獄"
   },
   {
     "visit": 23,
@@ -895,39 +901,9 @@
   },
   {
     "visit": 23,
-    "longitude": 120.2826813912,
-    "latitude": 23.098488558213,
-    "name": "台南科學園區"
-  },
-  {
-    "visit": 23,
-    "longitude": 120.19508,
-    "latitude": 22.98783,
-    "name": "東京益田日本料理"
-  },
-  {
-    "visit": 23,
     "longitude": 120.21818488133,
     "latitude": 23.002205663651,
     "name": "台南成大醫院"
-  },
-  {
-    "visit": 23,
-    "longitude": 120.22841,
-    "latitude": 22.98018,
-    "name": "婦兒安婦幼中心"
-  },
-  {
-    "visit": 23,
-    "longitude": 120.25358891503,
-    "latitude": 23.038462654754,
-    "name": "永康火車站 Yongkang Station"
-  },
-  {
-    "visit": 23,
-    "longitude": 120.20041416376,
-    "latitude": 22.994201004548,
-    "name": "冰鄉"
   },
   {
     "visit": 23,
@@ -937,15 +913,45 @@
   },
   {
     "visit": 23,
+    "longitude": 120.20556460294,
+    "latitude": 22.985204217647,
+    "name": "Tainan City,taiwan ROC"
+  },
+  {
+    "visit": 23,
+    "longitude": 120.22841,
+    "latitude": 22.98018,
+    "name": "婦兒安婦幼中心"
+  },
+  {
+    "visit": 23,
+    "longitude": 120.20041416376,
+    "latitude": 22.994201004548,
+    "name": "冰鄉"
+  },
+  {
+    "visit": 23,
+    "longitude": 120.25358891503,
+    "latitude": 23.038462654754,
+    "name": "永康火車站 Yongkang Station"
+  },
+  {
+    "visit": 23,
     "longitude": 120.21814627428,
     "latitude": 22.994897958529,
     "name": "勝利早點"
   },
   {
     "visit": 23,
-    "longitude": 120.20556460294,
-    "latitude": 22.985204217647,
-    "name": "Tainan City,taiwan ROC"
+    "longitude": 120.19508,
+    "latitude": 22.98783,
+    "name": "東京益田日本料理"
+  },
+  {
+    "visit": 23,
+    "longitude": 120.2826813912,
+    "latitude": 23.098488558213,
+    "name": "台南科學園區"
   },
   {
     "visit": 24,
@@ -955,15 +961,15 @@
   },
   {
     "visit": 25,
-    "longitude": 120.21433034923,
-    "latitude": 22.996634510367,
-    "name": "台南遠東香格里拉10FBuffet"
+    "longitude": 120.20207,
+    "latitude": 22.99674,
+    "name": "台南武廟"
   },
   {
     "visit": 25,
-    "longitude": 120.22115555556,
-    "latitude": 22.991069444444,
-    "name": "臺南市私立長榮女子高級中學"
+    "longitude": 120.21433034923,
+    "latitude": 22.996634510367,
+    "name": "台南遠東香格里拉10FBuffet"
   },
   {
     "visit": 25,
@@ -973,9 +979,9 @@
   },
   {
     "visit": 25,
-    "longitude": 120.20207,
-    "latitude": 22.99674,
-    "name": "台南武廟"
+    "longitude": 120.22115555556,
+    "latitude": 22.991069444444,
+    "name": "臺南市私立長榮女子高級中學"
   },
   {
     "visit": 26,
@@ -991,27 +997,15 @@
   },
   {
     "visit": 28,
-    "longitude": 120.16729,
-    "latitude": 22.99894,
-    "name": "安平古堡"
-  },
-  {
-    "visit": 28,
     "longitude": 120.21666666667,
     "latitude": 23,
     "name": "National Cheng Kung University"
   },
   {
-    "visit": 29,
-    "longitude": 120.23124014952,
-    "latitude": 23.008689449674,
-    "name": "家樂福 台南中華店"
-  },
-  {
-    "visit": 29,
-    "longitude": 120.2178192,
-    "latitude": 22.9795609,
-    "name": "維達都會生活俱樂部 La Vida Health Club"
+    "visit": 28,
+    "longitude": 120.16729,
+    "latitude": 22.99894,
+    "name": "安平古堡"
   },
   {
     "visit": 29,
@@ -1021,15 +1015,21 @@
   },
   {
     "visit": 29,
+    "longitude": 120.2178192,
+    "latitude": 22.9795609,
+    "name": "維達都會生活俱樂部 La Vida Health Club"
+  },
+  {
+    "visit": 29,
+    "longitude": 120.23124014952,
+    "latitude": 23.008689449674,
+    "name": "家樂福 台南中華店"
+  },
+  {
+    "visit": 29,
     "longitude": 120.19890261424,
     "latitude": 22.997467676134,
     "name": "台南永樂市場"
-  },
-  {
-    "visit": 30,
-    "longitude": 120.20618754185,
-    "latitude": 22.995549850652,
-    "name": "台南大遠百-華納威秀"
   },
   {
     "visit": 30,
@@ -1042,6 +1042,12 @@
     "longitude": 120.21560359044,
     "latitude": 22.997793962917,
     "name": "NCKU光復校區 成功廳"
+  },
+  {
+    "visit": 30,
+    "longitude": 120.20618754185,
+    "latitude": 22.995549850652,
+    "name": "台南大遠百-華納威秀"
   },
   {
     "visit": 31,
@@ -1081,9 +1087,9 @@
   },
   {
     "visit": 38,
-    "longitude": 120.22271818023,
-    "latitude": 22.974340467603,
-    "name": "235巷義大利麵 台南文化店"
+    "longitude": 120.24409461827,
+    "latitude": 22.989786633582,
+    "name": "Starbucks星巴克典藏門市-虎尾寮"
   },
   {
     "visit": 38,
@@ -1093,21 +1099,21 @@
   },
   {
     "visit": 38,
-    "longitude": 120.24409461827,
-    "latitude": 22.989786633582,
-    "name": "Starbucks星巴克典藏門市-虎尾寮"
-  },
-  {
-    "visit": 39,
-    "longitude": 120.22155555556,
-    "latitude": 22.974833333333,
-    "name": "Tainan Municipal Cultural Center"
+    "longitude": 120.22271818023,
+    "latitude": 22.974340467603,
+    "name": "235巷義大利麵 台南文化店"
   },
   {
     "visit": 39,
     "longitude": 120.19595,
     "latitude": 22.9952,
     "name": "唐寅居"
+  },
+  {
+    "visit": 39,
+    "longitude": 120.22155555556,
+    "latitude": 22.974833333333,
+    "name": "Tainan Municipal Cultural Center"
   },
   {
     "visit": 41,
@@ -1153,15 +1159,15 @@
   },
   {
     "visit": 49,
-    "longitude": 120.2008133,
-    "latitude": 22.9818993,
-    "name": "家齊女中"
-  },
-  {
-    "visit": 49,
     "longitude": 120.21638888889,
     "latitude": 22.994166666667,
     "name": "National Tainan First Senior High School"
+  },
+  {
+    "visit": 49,
+    "longitude": 120.2008133,
+    "latitude": 22.9818993,
+    "name": "家齊女中"
   },
   {
     "visit": 54,
@@ -1177,6 +1183,12 @@
   },
   {
     "visit": 56,
+    "longitude": 120.18091,
+    "latitude": 22.9895299,
+    "name": "吾亦私永華店"
+  },
+  {
+    "visit": 56,
     "longitude": 120.23293733967,
     "latitude": 22.99103966379,
     "name": "\"台南南紡\"夢時代購物中心"
@@ -1186,12 +1198,6 @@
     "longitude": 120.21306038132,
     "latitude": 22.989398637653,
     "name": "Tainan Sin Lau hospital"
-  },
-  {
-    "visit": 56,
-    "longitude": 120.18091,
-    "latitude": 22.9895299,
-    "name": "吾亦私永華店"
   },
   {
     "visit": 58,
