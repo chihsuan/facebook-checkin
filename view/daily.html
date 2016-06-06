@@ -56,7 +56,8 @@
           color: 'blue',
           fillColor: '#4AC3E7',
           fillOpacity: 0.5
-        }).bindPopup(d.name).addTo(mymap);
+        }).addTo(mymap);
+        circle.bindPopup(d.name);
       });
 
       var heat = L.heatLayer(latlng, {
