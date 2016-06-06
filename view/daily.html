@@ -52,12 +52,11 @@
           latlng.push([d.latitude, d.longitude]);
         }
       
-        var circle = L.circle([d.location.latitude, d.location.longitude], 10, {
+        var circle = L.circle([d.latitude, d.longitude], 10, {
           color: 'blue',
           fillColor: '#4AC3E7',
           fillOpacity: 0.5
-        }).addTo(map);
-
+        }).bindPopup(d.name).addTo(map);
       });
 
       var heat = L.heatLayer(latlng, {
