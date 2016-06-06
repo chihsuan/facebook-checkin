@@ -37,6 +37,11 @@
     L.control.layers({
       //"地球": googleHybrid,
       "地圖": googleStreet
+      }).addTo(mymap);
+
+    var heat = L.heatLayer([], {
+        radius: 25,
+        max: 2
     }).addTo(mymap);
 
     d3.json('../data/simplify_checkin_daily.json', function(data) {
@@ -51,7 +56,6 @@
         for (var i=0; i < visit; ++i) {
           latlng.push([d.latitude, d.longitude]);
         }
-      
         var circle = L.circle([d.latitude, d.longitude], 10, {
           color: 'blue',
           fillColor: '#4AC3E7',
@@ -60,12 +64,7 @@
         circle.bindPopup(d.name);
       });
 
-      var heat = L.heatLayer(latlng, {
-        radius: 25,
-        max: 2
-      }).addTo(mymap);
-
-
+      heat.setLatLngs(latlng);
       console.log(data.length);
     });
 
