@@ -1,4 +1,4 @@
-var data = require('./fb_checkin.json');
+var data = require('./data/fb_checkin.json');
 
 data.sort(function(a, b) {
   return b.visit - a.visit;
