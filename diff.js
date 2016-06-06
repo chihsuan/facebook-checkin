@@ -13,6 +13,9 @@ data.forEach(function(d) {
       name: d.name
     });
   }
+  else {
+    console.log('-->', d.name, diff)
+  }
 });
 
 output.sort(function(a, b) {

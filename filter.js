@@ -5,6 +5,7 @@ var log = {}
 console.log(data.length);
 data.forEach(function(d) {
   if(log.hasOwnProperty(d.id)) {
+    console.log(d.name);
     return;
   }
   output.push(d);
