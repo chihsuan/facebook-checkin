@@ -14,21 +14,10 @@
         height: 100%;
         width: 100%;
        }
-       .date {
-         position: absolute;
-        left: 60px;
-        top: 10px;
-        z-index: 999;
-        background: #fff;
-        padding: 10px;
-        border-radius: 5px; 
-      }
-      </style>
+     </style>
   </head>
   <body>
-     <div class="date"></div>
      <div id="mapid"></div>
-   </body>
   <script>
     var mymap = L.map('mapid').setView([23, 120.2], 13);
 
@@ -63,6 +52,6 @@
       console.log(count);
     });
 
-    document.querySelector('.date').innerHTML = data[0].date.substring(0, 10); 
   </script>
+  </body>
 </html>
