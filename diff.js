@@ -3,9 +3,10 @@ var fs = require('fs');
 var output = [];
 data.forEach(function(d) {
   if(d.visit.length < 2)
-    return
-  var diff = d.visit[1].value - d.visit[0].value;
-  if (diff > 0 && diff < 1000) {
+    return;
+  var len = d.visit.length;
+  var diff = d.visit[len-1].value - d.visit[len-2].value;
+  if (diff > 0 && diff < 5000) {
     output.push({
       visit: diff,
       longitude: d.location.longitude,
