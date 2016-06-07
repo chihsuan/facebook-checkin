@@ -5,12 +5,14 @@ data.forEach(function(d) {
   if(d.visit.length < 2)
     return
   var diff = d.visit[1].value - d.visit[0].value;
+
   if (diff > 0 && diff < 1000) {
     output.push({
       visit: diff,
       longitude: d.location.longitude,
       latitude: d.location.latitude,
-      name: d.name
+      name: d.name,
+      date: d.visit[0].date
     });
   }
   else {
