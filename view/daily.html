@@ -24,10 +24,23 @@
         padding: 10px;
         border-radius: 5px;
       }
+      #panel {
+        width: 250px;
+        position: absolute;
+        z-index: 9999;
+        background: #1E1E1E;
+        color: #BDBDBD;
+        padding: 9px 20px;
+        overflow: auto;
+        height: 100%;
+        line-height: 1.4;
+        min-height: 50px;
+      }
       </style>
   </head>
   <body>
-     <div class="date"></div>
+    <div class="date"></div>
+    <div id="panel" class="left"></div>
      <div id="mapid"></div>
    </body>
   <script>
@@ -56,6 +69,9 @@
 
     d3.json('../data/simplify_checkin_daily.json', function(data) {
       var latlng = [];
+      var panel = document.getElementById('panel');
+
+      data.reverse();
       data.forEach(function(d) {
         if (!d.visit)
           return;
@@ -72,6 +88,10 @@
           fillOpacity: 0.5
         }).addTo(mymap);
         circle.bindPopup(d.name+'（'+d.visit+')');
+
+        var p = document.createElement('p');
+        p.innerHTML = d.name + ' ' + d.visit;
+        panel.appendChild(p);
       });
 
       heat.setLatLngs(latlng);
